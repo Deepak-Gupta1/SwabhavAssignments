@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Comment</h2>
+    <input id="comment">
+    <button id="btn" onclick="SaveCommet()">Add</button>
+    <ul></ul>
+    <button id="btn" onclick="ClearCommet()">Clear ALL</button>
+
+    <script>
+        const ul=document.querySelector('ul');
+        const input=document.getElementById("comment");
+        let commnetsArray=[];
+        if(localStorage.getItem('comment')){
+            commnetsArray=JSON.parse(localStorage.getItem('comment'));
+            commnetsArray.forEach(comment=>{
+            const li=document.createElement('li');
+             li.textContent=comment.comment+" on "+comment.date;
+             ul.appendChild(li);
+            })
+        }
+        
+        function listComment(cmt){
+            const li=document.createElement('li');    
+            li.textContent=cmt.getDetails();
+            ul.appendChild(li); 
+        }
+        function SaveCommet(){
+            var cmt=new Comment(input.value);
+            commnetsArray.push(cmt);
+            localStorage.setItem('comment',JSON.stringify(commnetsArray));
+            listComment(cmt);
+            input.value="";
+        }
+        function Comment(comment){
+            this.comment=comment;
+            this.date=Date().substring(0,21);
+            this.getDetails=function(){
+                return (this.comment+" on "+this.date);
+            }
+        }
+        function ClearCommet(){
+            localStorage.clear();
+            while (ul.firstChild) {
+            ul.removeChild(ul.firstChild);
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pattern 2</title>
+</head>
+<body>
+    <h2>Module Pattern 2</h2>
+    <script>
+        function DataService(){
+            var service={};
+            console.log("module loaded");
+            service.doTask1=function(){
+                console.log("doing task1");
+            }
+            service.doTask2=function(){
+                console.log("doing task2");
+            }
+            service.getData=function(){
+                return Math.random()*10;
+            }
+            return service;
+        }
+        console.log(typeof(DataService));
+        DataService().doTask1();
+        DataService().doTask2();
+        console.log(DataService().getData());
+    </script>
+    
+</body>
+</html>

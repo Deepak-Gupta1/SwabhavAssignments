@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <div>
+        <div class="toggle"> 
+        </div>
+        <button id="togglebtn" onclick="Animation()">SHOW</button>
+    </div>
+    </div>
+<script>
+ let toggle=document.querySelector(".toggle");
+ let text=document.getElementById("togglebtn");
+ function Animation(){
+    toggle.classList.toggle("active");
+    if(toggle.classList.contains("active")){
+        toggle.innerHTML=`<img id="myImage" src='Images/load.gif'
+      style="width:100px">`;
+      text.innerHTML="HIDE";
+    }
+    else{
+        toggle.innerHTML=``;
+        text.innerHTML="SHOW";
+    }
+ }
+</script>
+
+</body>
+</html>

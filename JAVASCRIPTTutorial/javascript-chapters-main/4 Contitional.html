@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 id ="banner"></h1>
+
+    <script>
+        var message = "Conditional"
+        var banner = document.getElementById("banner")
+        banner.innerHTML = message;
+    </script>
+</body>
+<script>
+    var xPos = 200;
+        var yPos = 150;
+        function sendWarning(x , y){
+            if(x < xPos && y < yPos){
+                alert("Warning !");
+            }
+            else{
+                alert("Everything is Fine !");
+            }
+        }
+        sendWarning(500 , 160);
+        sendWarning(100 , 100);
+
+        var color = "green"
+        switch(color){
+            case "yellow":
+                alert("yellow")
+                break;
+            case "green":
+                alert("green")
+                break;
+            default:
+                alert("no color")
+                break;
+        }
+</script>
+</html>

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <input id="number">
+    <button onclick="xmlrequest()">Facts</button>
+    <ul></ul>
+    <button id="btn" onclick="ClearCommet()">Clear ALL</button>
+    <script>
+        const num = document.querySelector('input');
+        const ul=document.querySelector('ul');
+        let textsArray=[];
+        if(localStorage.getItem('text')){
+            textsArray=JSON.parse(localStorage.getItem('text'));
+            textsArray.forEach(text=>{
+                listtext(text);
+            })
+        }
+        
+        function listtext(text){
+            const li=document.createElement('li');    
+            li.textContent=text;
+            ul.appendChild(li); 
+        }
+        function SaveCommet(text){
+            textsArray.push(text);
+            localStorage.setItem('text',JSON.stringify(textsArray));
+            listtext(text);
+            num.value="";
+        }
+        function ClearCommet(){
+            localStorage.clear();
+            while (ul.firstChild) {
+            ul.removeChild(ul.firstChild);
+            }
+        }
+        function xmlrequest() {
+            let xhr = new XMLHttpRequest();
+            xhr.open('GET','http://numbersapi.com/' + num.value + '?json');
+            xhr.responseType = 'json';
+            xhr.send();
+            xhr.onload = function () {
+                let responseObj = xhr.response;
+                SaveCommet(responseObj.text);
+            };
+        }
+       
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="blueballgame.css">
+</head>
+
+<body>
+    <p class="p1">BLUE BALL GAME</p>
+    <p>
+    <p class="p2"><b><br>Rule</b><br>
+        <b>1)You can select balls/slide form 1 to 100</b><br>
+        <b>2)4 tries for one user</b><br>
+        <b>3)If Ball turn <strong style=" color: blue;">Blue</strong> you selected right ball</b><br>
+        <b>3)If Ball turn <strong style=" color: red;">Red</strong> you selected low number ball</b><br>
+        <b>3)If Ball turn <strong style=" color: yellow;">Yellow</strong> you selected High number ball</b><br>
+    </p>
+    <button class="button button1" id="strbtn" onclick="GamePage()">Start Game</button>
+    </p>
+    <section id="gamepage">
+        <div>
+            1<input id="ipslide" type="range" min="1" max="100" step="1" style="width:90%"> 100
+        </div>
+        <p>
+        <div id="showslidevalue" style="text-align: center;">slide</div>
+        </p>
+        <div>Turn Left<li id="h1"> ♥</li>
+            <li id="h2"> ♥</li>
+            <li id="h3"> ♥</li>
+            <li id="h4"> ♥</li>
+            <b style=" padding-left: 30%; " id="hint"></b> 
+        </div>
+        <div id="btn" style="margin-top: 2% "><button class="button2" onclick="BtnValue(this.id)" id="1">1</button><button
+                class="button2" onclick="BtnValue(this.id)" id="2">2</button><button class="button2"
+                onclick="BtnValue(this.id)" id="3">3</button><button class="button2" onclick="BtnValue(this.id)"
+                id="4">4</button><button class="button2" onclick="BtnValue(this.id)" id="5">5</button><button
+                class="button2" onclick="BtnValue(this.id)" id="6">6</button><button class="button2"
+                onclick="BtnValue(this.id)" id="7">7</button><button class="button2" onclick="BtnValue(this.id)"
+                id="8">8</button><button class="button2" onclick="BtnValue(this.id)" id="9">9</button><button
+                class="button2" onclick="BtnValue(this.id)" id="10">10</button><button class="button2"
+                onclick="BtnValue(this.id)" id="11">11</button><button class="button2" onclick="BtnValue(this.id)"
+                id="12">12</button><button class="button2" onclick="BtnValue(this.id)" id="13">13</button><button
+                class="button2" onclick="BtnValue(this.id)" id="14">14</button><button class="button2"
+                onclick="BtnValue(this.id)" id="15">15</button><button class="button2" onclick="BtnValue(this.id)"
+                id="16">16</button><button class="button2" onclick="BtnValue(this.id)" id="17">17</button><button
+                class="button2" onclick="BtnValue(this.id)" id="18">18</button><button class="button2"
+                onclick="BtnValue(this.id)" id="19">19</button><button class="button2" onclick="BtnValue(this.id)"
+                id="20">20</button><button class="button2" onclick="BtnValue(this.id)" id="21">21</button><button
+                class="button2" onclick="BtnValue(this.id)" id="22">22</button><button class="button2"
+                onclick="BtnValue(this.id)" id="23">23</button><button class="button2" onclick="BtnValue(this.id)"
+                id="24">24</button><button class="button2" onclick="BtnValue(this.id)" id="25">25</button><button
+                class="button2" onclick="BtnValue(this.id)" id="26">26</button><button class="button2"
+                onclick="BtnValue(this.id)" id="27">27</button><button class="button2" onclick="BtnValue(this.id)"
+                id="28">28</button><button class="button2" onclick="BtnValue(this.id)" id="29">29</button><button
+                class="button2" onclick="BtnValue(this.id)" id="30">30</button><button class="button2"
+                onclick="BtnValue(this.id)" id="31">31</button><button class="button2" onclick="BtnValue(this.id)"
+                id="32">32</button><button class="button2" onclick="BtnValue(this.id)" id="33">33</button><button
+                class="button2" onclick="BtnValue(this.id)" id="34">34</button><button class="button2"
+                onclick="BtnValue(this.id)" id="35">35</button><button class="button2" onclick="BtnValue(this.id)"
+                id="36">36</button><button class="button2" onclick="BtnValue(this.id)" id="37">37</button><button
+                class="button2" onclick="BtnValue(this.id)" id="38">38</button><button class="button2"
+                onclick="BtnValue(this.id)" id="39">39</button><button class="button2" onclick="BtnValue(this.id)"
+                id="40">40</button><button class="button2" onclick="BtnValue(this.id)" id="41">41</button><button
+                class="button2" onclick="BtnValue(this.id)" id="42">42</button><button class="button2"
+                onclick="BtnValue(this.id)" id="43">43</button><button class="button2" onclick="BtnValue(this.id)"
+                id="44">44</button><button class="button2" onclick="BtnValue(this.id)" id="45">45</button><button
+                class="button2" onclick="BtnValue(this.id)" id="46">46</button><button class="button2"
+                onclick="BtnValue(this.id)" id="47">47</button><button class="button2" onclick="BtnValue(this.id)"
+                id="48">48</button><button class="button2" onclick="BtnValue(this.id)" id="49">49</button><button
+                class="button2" onclick="BtnValue(this.id)" id="50">50</button><button class="button2"
+                onclick="BtnValue(this.id)" id="51">51</button><button class="button2" onclick="BtnValue(this.id)"
+                id="52">52</button><button class="button2" onclick="BtnValue(this.id)" id="53">53</button><button
+                class="button2" onclick="BtnValue(this.id)" id="54">54</button><button class="button2"
+                onclick="BtnValue(this.id)" id="55">55</button><button class="button2" onclick="BtnValue(this.id)"
+                id="56">56</button><button class="button2" onclick="BtnValue(this.id)" id="57">57</button><button
+                class="button2" onclick="BtnValue(this.id)" id="58">58</button><button class="button2"
+                onclick="BtnValue(this.id)" id="59">59</button><button class="button2" onclick="BtnValue(this.id)"
+                id="60">60</button><button class="button2" onclick="BtnValue(this.id)" id="61">61</button><button
+                class="button2" onclick="BtnValue(this.id)" id="62">62</button><button class="button2"
+                onclick="BtnValue(this.id)" id="63">63</button><button class="button2" onclick="BtnValue(this.id)"
+                id="64">64</button><button class="button2" onclick="BtnValue(this.id)" id="65">65</button><button
+                class="button2" onclick="BtnValue(this.id)" id="66">66</button><button class="button2"
+                onclick="BtnValue(this.id)" id="67">67</button><button class="button2" onclick="BtnValue(this.id)"
+                id="68">68</button><button class="button2" onclick="BtnValue(this.id)" id="69">69</button><button
+                class="button2" onclick="BtnValue(this.id)" id="70">70</button><button class="button2"
+                onclick="BtnValue(this.id)" id="71">71</button><button class="button2" onclick="BtnValue(this.id)"
+                id="72">72</button><button class="button2" onclick="BtnValue(this.id)" id="73">73</button><button
+                class="button2" onclick="BtnValue(this.id)" id="74">74</button><button class="button2"
+                onclick="BtnValue(this.id)" id="75">75</button><button class="button2" onclick="BtnValue(this.id)"
+                id="76">76</button><button class="button2" onclick="BtnValue(this.id)" id="77">77</button><button
+                class="button2" onclick="BtnValue(this.id)" id="78">78</button><button class="button2"
+                onclick="BtnValue(this.id)" id="79">79</button><button class="button2" onclick="BtnValue(this.id)"
+                id="80">80</button><button class="button2" onclick="BtnValue(this.id)" id="81">81</button><button
+                class="button2" onclick="BtnValue(this.id)" id="82">82</button><button class="button2"
+                onclick="BtnValue(this.id)" id="83">83</button><button class="button2" onclick="BtnValue(this.id)"
+                id="84">84</button><button class="button2" onclick="BtnValue(this.id)" id="85">85</button><button
+                class="button2" onclick="BtnValue(this.id)" id="86">86</button><button class="button2"
+                onclick="BtnValue(this.id)" id="87">87</button><button class="button2" onclick="BtnValue(this.id)"
+                id="88">88</button><button class="button2" onclick="BtnValue(this.id)" id="89">89</button><button
+                class="button2" onclick="BtnValue(this.id)" id="90">90</button><button class="button2"
+                onclick="BtnValue(this.id)" id="91">91</button><button class="button2" onclick="BtnValue(this.id)"
+                id="92">92</button><button class="button2" onclick="BtnValue(this.id)" id="93">93</button><button
+                class="button2" onclick="BtnValue(this.id)" id="94">94</button><button class="button2"
+                onclick="BtnValue(this.id)" id="95">95</button><button class="button2" onclick="BtnValue(this.id)"
+                id="96">96</button><button class="button2" onclick="BtnValue(this.id)" id="97">97</button><button
+                class="button2" onclick="BtnValue(this.id)" id="98">98</button><button class="button2"
+                onclick="BtnValue(this.id)" id="99">99</button><button class="button2" onclick="BtnValue(this.id)"
+                id="100">100</button></div>
+    </section>
+
+    <script src="BlueBallGame.js"></script>
+</body>
+
+</html>

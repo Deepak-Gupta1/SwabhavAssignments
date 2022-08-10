@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 id ="banner"></h1>
+
+    <script>
+        var message = "functions"
+        var banner = document.getElementById("banner")
+        banner.innerHTML = message;
+    </script>
+    
+</body>
+<script>
+    function showDistance(speed , time){
+            alert("Using Function : " + speed * time);
+        }
+        showDistance(10 , 20);
+        showDistance(1 , 5);
+
+        function getDistance(speed , time){
+            var distance = speed * time;
+            return distance;
+        }
+        var myDistance = getDistance(100 , 200);
+        alert("returning : "+myDistance)
+</script>
+</html>

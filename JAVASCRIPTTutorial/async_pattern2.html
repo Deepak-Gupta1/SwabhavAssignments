@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        var DataDervice=function(){
+            var service={}
+            service.getData=function(fnSuccess,fnError){
+                var n=Math.random()*10;
+                if(n>5){
+                    fnSuccess({status:"suceess",data:n});
+                }
+                fnError({status:"Error",msg:"Data is too low+n"});
+            }    
+            return service;
+        }();
+
+        var result=DataDervice.getData(WhenSuccess,WhenfnError);
+        function WhenSuccess(){
+            console.log("Success callback");
+            console.log(result);
+        }
+        function WhenfnError(){
+                 console.log("Error callback");
+                 console.log(result);
+        }
+        console.log("end of script");
+    </script>
+</body>
+</html>

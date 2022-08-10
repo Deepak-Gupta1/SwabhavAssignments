@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ModulePattern1</title>
+</head>
+<body>
+    
+    <h2>Module Pattern 1</h2>
+    <script>
+        function makeCustomer(){
+            var _name,_id;
+            var customer={}
+            customer.setName=function(name){
+                if(name.length>5){
+                    _name=name;
+                }
+            }
+            customer.setId=function(id){
+                if(id>0){
+                    _id=id
+                }
+            }
+            customer.getDetails=function(){
+                return "name is "+_name+" id is "+_id;
+            }
+            return customer;
+        }
+
+        var c1=makeCustomer();
+        console.log(typeof(c1));
+        c1.setName("Deepak");
+        c1.setId(101);
+        console.log(c1.getDetails());
+
+        var c2=makeCustomer();
+        console.log(c2);
+        c2.setName("Deepak");
+        c2.setId(101);
+        console.log(c2.getDetails());
+    </script>
+</body>
+</html>

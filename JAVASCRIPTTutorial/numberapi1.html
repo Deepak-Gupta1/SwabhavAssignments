@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        var NumberApiSerice=function(){
+            var service={}
+            service.getDataV1=function(no,fnSuccess){
+                const xhr=new XMLHttpRequest();
+                xhr.addEventListener("load",function reqListener(){
+                    fnSuccess(this.responseText);
+                });
+                xhr.open("GET",`http://numberapi.com/${no}?json`);
+                xhr.send();
+            }
+            // service.getDatav2=function(){
+            //     return new Promise(function(resolve,reject){
+            //         console.log("inside promise");
+            //         const xhr=new XMLHttpRequest();
+            //         xhr.addEventListener("load",function reqListener(){
+            //         resolve(this.responseText);
+            //    );
+
+                xhr.open("GET",`http://numberapi.com/${no}?json`);
+                xhr.send();
+            }
+                    
+        //         }
+        //     }
+            
+        //    return service;
+        // }();
+        NumberApiSerice.getDataV1(20,function(result){
+            console.log(result);
+        });
+
+        NumberApiSerice.getDataV2(50)
+                 .then(function(r){
+                    console.log(r);
+                 })
+
+       console.log("end");          
+    </script>
+</body>
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        var funnyGuy ={};
+        funnyGuy.firstname="Vinay";
+        funnyGuy.lastname="Jain";
+
+        funnyGuy["firstname"]="Vinay";
+
+        var funnyGuy={
+            firstname:"Vinay",
+            lastname:"Jain",
+
+            getName:function(){
+                return "Name is :"+this.firstname;
+            }
+        };
+        alert(funnyGuy.getName());
+    </script>
+</body>
+</html>

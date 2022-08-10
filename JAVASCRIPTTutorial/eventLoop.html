@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button id="delay" onclick="delayHandler()">Delay</button>
+    <button id="hello" onclick="helloHandler()">Hello</button>
+    <button id="goodbye" onclick="goodbyeHandler()">goodbye</button>
+
+    <script>
+       function delayHandler(){
+    
+        delay(2);
+        console.log("After the delay");
+       }
+       function delay(second){
+        var startTime=Date.now();
+        while(Date.now()-startTime<second*1000);
+       }
+       function helloHandler(){
+        console.log("hello");
+       }
+       function goodbyeHandler(){
+        console.log("good bye");
+       }
+
+    </script>
+</body>
+</html>
