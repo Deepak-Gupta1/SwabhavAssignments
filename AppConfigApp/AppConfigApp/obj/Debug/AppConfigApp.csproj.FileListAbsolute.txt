@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\AppConfigApp\AppConfigApp\bin\Debug\AppConfigApp.exe.config
+C:\Users\Deepak\source\repos\AppConfigApp\AppConfigApp\bin\Debug\AppConfigApp.exe
+C:\Users\Deepak\source\repos\AppConfigApp\AppConfigApp\bin\Debug\AppConfigApp.pdb
+C:\Users\Deepak\source\repos\AppConfigApp\AppConfigApp\obj\Debug\AppConfigApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\AppConfigApp\AppConfigApp\obj\Debug\AppConfigApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\AppConfigApp\AppConfigApp\obj\Debug\AppConfigApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\AppConfigApp\AppConfigApp\obj\Debug\AppConfigApp.exe
+C:\Users\Deepak\source\repos\AppConfigApp\AppConfigApp\obj\Debug\AppConfigApp.pdb

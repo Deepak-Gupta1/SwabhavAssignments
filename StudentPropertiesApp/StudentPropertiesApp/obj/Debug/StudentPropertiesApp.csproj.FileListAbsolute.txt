@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\StudentPropertiesApp\StudentPropertiesApp\bin\Debug\StudentPropertiesApp.exe.config
+C:\Users\Deepak\source\repos\StudentPropertiesApp\StudentPropertiesApp\bin\Debug\StudentPropertiesApp.exe
+C:\Users\Deepak\source\repos\StudentPropertiesApp\StudentPropertiesApp\bin\Debug\StudentPropertiesApp.pdb
+C:\Users\Deepak\source\repos\StudentPropertiesApp\StudentPropertiesApp\obj\Debug\StudentPropertiesApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\StudentPropertiesApp\StudentPropertiesApp\obj\Debug\StudentPropertiesApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\StudentPropertiesApp\StudentPropertiesApp\obj\Debug\StudentPropertiesApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\StudentPropertiesApp\StudentPropertiesApp\obj\Debug\StudentPropertiesApp.exe
+C:\Users\Deepak\source\repos\StudentPropertiesApp\StudentPropertiesApp\obj\Debug\StudentPropertiesApp.pdb

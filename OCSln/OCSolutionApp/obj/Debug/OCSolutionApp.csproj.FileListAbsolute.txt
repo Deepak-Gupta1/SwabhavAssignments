@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\OCSln\OCSolutionApp\bin\Debug\OCSolutionApp.exe.config
+C:\Users\Deepak\source\repos\OCSln\OCSolutionApp\bin\Debug\OCSolutionApp.exe
+C:\Users\Deepak\source\repos\OCSln\OCSolutionApp\bin\Debug\OCSolutionApp.pdb
+C:\Users\Deepak\source\repos\OCSln\OCSolutionApp\obj\Debug\OCSolutionApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\OCSln\OCSolutionApp\obj\Debug\OCSolutionApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\OCSln\OCSolutionApp\obj\Debug\OCSolutionApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\OCSln\OCSolutionApp\obj\Debug\OCSolutionApp.exe
+C:\Users\Deepak\source\repos\OCSln\OCSolutionApp\obj\Debug\OCSolutionApp.pdb

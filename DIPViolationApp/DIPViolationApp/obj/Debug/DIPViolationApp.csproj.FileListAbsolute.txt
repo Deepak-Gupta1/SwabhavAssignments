@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\DIPViolationApp\DIPViolationApp\bin\Debug\DIPViolationApp.exe.config
+C:\Users\Deepak\source\repos\DIPViolationApp\DIPViolationApp\bin\Debug\DIPViolationApp.exe
+C:\Users\Deepak\source\repos\DIPViolationApp\DIPViolationApp\bin\Debug\DIPViolationApp.pdb
+C:\Users\Deepak\source\repos\DIPViolationApp\DIPViolationApp\obj\Debug\DIPViolationApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\DIPViolationApp\DIPViolationApp\obj\Debug\DIPViolationApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\DIPViolationApp\DIPViolationApp\obj\Debug\DIPViolationApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\DIPViolationApp\DIPViolationApp\obj\Debug\DIPViolationApp.exe
+C:\Users\Deepak\source\repos\DIPViolationApp\DIPViolationApp\obj\Debug\DIPViolationApp.pdb

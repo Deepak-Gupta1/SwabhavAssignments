@@ -1,0 +1,3 @@
+C:\Users\Deepak\source\repos\ISPSlnApp\ISPSolutionApp\obj\Debug\ISPSolutionApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\ISPSlnApp\ISPSolutionApp\obj\Debug\ISPSolutionApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\ISPSlnApp\ISPSolutionApp\obj\Debug\ISPSolutionApp.csproj.CoreCompileInputs.cache

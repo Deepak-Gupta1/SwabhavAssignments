@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\CollectionPocApp\CollectionPocApp\bin\Debug\CollectionPocApp.exe.config
+C:\Users\Deepak\source\repos\CollectionPocApp\CollectionPocApp\bin\Debug\CollectionPocApp.exe
+C:\Users\Deepak\source\repos\CollectionPocApp\CollectionPocApp\bin\Debug\CollectionPocApp.pdb
+C:\Users\Deepak\source\repos\CollectionPocApp\CollectionPocApp\obj\Debug\CollectionPocApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\CollectionPocApp\CollectionPocApp\obj\Debug\CollectionPocApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\CollectionPocApp\CollectionPocApp\obj\Debug\CollectionPocApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\CollectionPocApp\CollectionPocApp\obj\Debug\CollectionPocApp.exe
+C:\Users\Deepak\source\repos\CollectionPocApp\CollectionPocApp\obj\Debug\CollectionPocApp.pdb

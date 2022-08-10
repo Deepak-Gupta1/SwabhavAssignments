@@ -1,0 +1,10 @@
+C:\Users\Deepak\source\repos\SimpleFactorySln\AutoMobileLayerLib\bin\Debug\netstandard2.0\AutoMobileLayerLib.deps.json
+C:\Users\Deepak\source\repos\SimpleFactorySln\AutoMobileLayerLib\bin\Debug\netstandard2.0\AutoMobileLayerLib.dll
+C:\Users\Deepak\source\repos\SimpleFactorySln\AutoMobileLayerLib\bin\Debug\netstandard2.0\AutoMobileLayerLib.pdb
+C:\Users\Deepak\source\repos\SimpleFactorySln\AutoMobileLayerLib\obj\Debug\netstandard2.0\AutoMobileLayerLib.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\SimpleFactorySln\AutoMobileLayerLib\obj\Debug\netstandard2.0\AutoMobileLayerLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deepak\source\repos\SimpleFactorySln\AutoMobileLayerLib\obj\Debug\netstandard2.0\AutoMobileLayerLib.AssemblyInfoInputs.cache
+C:\Users\Deepak\source\repos\SimpleFactorySln\AutoMobileLayerLib\obj\Debug\netstandard2.0\AutoMobileLayerLib.AssemblyInfo.cs
+C:\Users\Deepak\source\repos\SimpleFactorySln\AutoMobileLayerLib\obj\Debug\netstandard2.0\AutoMobileLayerLib.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\SimpleFactorySln\AutoMobileLayerLib\obj\Debug\netstandard2.0\AutoMobileLayerLib.dll
+C:\Users\Deepak\source\repos\SimpleFactorySln\AutoMobileLayerLib\obj\Debug\netstandard2.0\AutoMobileLayerLib.pdb

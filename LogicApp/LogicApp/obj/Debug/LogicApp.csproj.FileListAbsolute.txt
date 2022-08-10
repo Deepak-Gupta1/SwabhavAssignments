@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\LogicApp\LogicApp\bin\Debug\LogicApp.exe.config
+C:\Users\Deepak\source\repos\LogicApp\LogicApp\bin\Debug\LogicApp.exe
+C:\Users\Deepak\source\repos\LogicApp\LogicApp\bin\Debug\LogicApp.pdb
+C:\Users\Deepak\source\repos\LogicApp\LogicApp\obj\Debug\LogicApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\LogicApp\LogicApp\obj\Debug\LogicApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\LogicApp\LogicApp\obj\Debug\LogicApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\LogicApp\LogicApp\obj\Debug\LogicApp.exe
+C:\Users\Deepak\source\repos\LogicApp\LogicApp\obj\Debug\LogicApp.pdb

@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\CustomerRectangleExceptionApp\CustomerRectangleExceptionApp\bin\Debug\CustomerRectangleExceptionApp.exe.config
+C:\Users\Deepak\source\repos\CustomerRectangleExceptionApp\CustomerRectangleExceptionApp\bin\Debug\CustomerRectangleExceptionApp.exe
+C:\Users\Deepak\source\repos\CustomerRectangleExceptionApp\CustomerRectangleExceptionApp\bin\Debug\CustomerRectangleExceptionApp.pdb
+C:\Users\Deepak\source\repos\CustomerRectangleExceptionApp\CustomerRectangleExceptionApp\obj\Debug\CustomerRectangleExceptionApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\CustomerRectangleExceptionApp\CustomerRectangleExceptionApp\obj\Debug\CustomerRectangleExceptionApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\CustomerRectangleExceptionApp\CustomerRectangleExceptionApp\obj\Debug\CustomerRectangleExceptionApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\CustomerRectangleExceptionApp\CustomerRectangleExceptionApp\obj\Debug\CustomerRectangleExceptionApp.exe
+C:\Users\Deepak\source\repos\CustomerRectangleExceptionApp\CustomerRectangleExceptionApp\obj\Debug\CustomerRectangleExceptionApp.pdb

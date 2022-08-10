@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\OOP\RectangleAbstractionApp\RectangleAbstractionApp\RectangleAbstractionApp\obj\Debug\RectangleAbstractionApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\OOP\RectangleAbstractionApp\RectangleAbstractionApp\RectangleAbstractionApp\obj\Debug\RectangleAbstractionApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\OOP\RectangleAbstractionApp\RectangleAbstractionApp\RectangleAbstractionApp\obj\Debug\RectangleAbstractionApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\OOP\RectangleAbstractionApp\RectangleAbstractionApp\RectangleAbstractionApp\bin\Debug\RectangleAbstractionApp.exe.config
+C:\Users\Deepak\source\repos\OOP\RectangleAbstractionApp\RectangleAbstractionApp\RectangleAbstractionApp\bin\Debug\RectangleAbstractionApp.exe
+C:\Users\Deepak\source\repos\OOP\RectangleAbstractionApp\RectangleAbstractionApp\RectangleAbstractionApp\bin\Debug\RectangleAbstractionApp.pdb
+C:\Users\Deepak\source\repos\OOP\RectangleAbstractionApp\RectangleAbstractionApp\RectangleAbstractionApp\obj\Debug\RectangleAbstractionApp.exe
+C:\Users\Deepak\source\repos\OOP\RectangleAbstractionApp\RectangleAbstractionApp\RectangleAbstractionApp\obj\Debug\RectangleAbstractionApp.pdb

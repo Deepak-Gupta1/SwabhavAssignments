@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\FileReadWriteApp\FileReadWriteApp\bin\Debug\FileReadWriteApp.exe.config
+C:\Users\Deepak\source\repos\FileReadWriteApp\FileReadWriteApp\bin\Debug\FileReadWriteApp.exe
+C:\Users\Deepak\source\repos\FileReadWriteApp\FileReadWriteApp\bin\Debug\FileReadWriteApp.pdb
+C:\Users\Deepak\source\repos\FileReadWriteApp\FileReadWriteApp\obj\Debug\FileReadWriteApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\FileReadWriteApp\FileReadWriteApp\obj\Debug\FileReadWriteApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\FileReadWriteApp\FileReadWriteApp\obj\Debug\FileReadWriteApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\FileReadWriteApp\FileReadWriteApp\obj\Debug\FileReadWriteApp.exe
+C:\Users\Deepak\source\repos\FileReadWriteApp\FileReadWriteApp\obj\Debug\FileReadWriteApp.pdb

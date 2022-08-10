@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\OCSln\OCVoilationApp\bin\Debug\OCVoilationApp.exe.config
+C:\Users\Deepak\source\repos\OCSln\OCVoilationApp\bin\Debug\OCVoilationApp.exe
+C:\Users\Deepak\source\repos\OCSln\OCVoilationApp\bin\Debug\OCVoilationApp.pdb
+C:\Users\Deepak\source\repos\OCSln\OCVoilationApp\obj\Debug\OCVoilationApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\OCSln\OCVoilationApp\obj\Debug\OCVoilationApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\OCSln\OCVoilationApp\obj\Debug\OCVoilationApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\OCSln\OCVoilationApp\obj\Debug\OCVoilationApp.exe
+C:\Users\Deepak\source\repos\OCSln\OCVoilationApp\obj\Debug\OCVoilationApp.pdb

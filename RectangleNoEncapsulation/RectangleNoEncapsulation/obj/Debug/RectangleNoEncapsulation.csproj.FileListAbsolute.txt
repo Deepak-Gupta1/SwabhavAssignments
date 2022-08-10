@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\RectangleNoEncapsulation\RectangleNoEncapsulation\bin\Debug\RectangleNoEncapsulation.exe.config
+C:\Users\Deepak\source\repos\RectangleNoEncapsulation\RectangleNoEncapsulation\bin\Debug\RectangleNoEncapsulation.exe
+C:\Users\Deepak\source\repos\RectangleNoEncapsulation\RectangleNoEncapsulation\bin\Debug\RectangleNoEncapsulation.pdb
+C:\Users\Deepak\source\repos\RectangleNoEncapsulation\RectangleNoEncapsulation\obj\Debug\RectangleNoEncapsulation.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\RectangleNoEncapsulation\RectangleNoEncapsulation\obj\Debug\RectangleNoEncapsulation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\RectangleNoEncapsulation\RectangleNoEncapsulation\obj\Debug\RectangleNoEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\RectangleNoEncapsulation\RectangleNoEncapsulation\obj\Debug\RectangleNoEncapsulation.exe
+C:\Users\Deepak\source\repos\RectangleNoEncapsulation\RectangleNoEncapsulation\obj\Debug\RectangleNoEncapsulation.pdb

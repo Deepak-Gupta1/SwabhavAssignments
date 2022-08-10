@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\EnumerationApp\EnumerationApp\bin\Debug\EnumerationApp.exe.config
+C:\Users\Deepak\source\repos\EnumerationApp\EnumerationApp\bin\Debug\EnumerationApp.exe
+C:\Users\Deepak\source\repos\EnumerationApp\EnumerationApp\bin\Debug\EnumerationApp.pdb
+C:\Users\Deepak\source\repos\EnumerationApp\EnumerationApp\obj\Debug\EnumerationApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\EnumerationApp\EnumerationApp\obj\Debug\EnumerationApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\EnumerationApp\EnumerationApp\obj\Debug\EnumerationApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\EnumerationApp\EnumerationApp\obj\Debug\EnumerationApp.exe
+C:\Users\Deepak\source\repos\EnumerationApp\EnumerationApp\obj\Debug\EnumerationApp.pdb

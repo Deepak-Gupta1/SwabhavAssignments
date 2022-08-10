@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\PersonInheritanceApp\PersonInheritanceApp\bin\Debug\PersonInheritanceApp.exe.config
+C:\Users\Deepak\source\repos\PersonInheritanceApp\PersonInheritanceApp\bin\Debug\PersonInheritanceApp.exe
+C:\Users\Deepak\source\repos\PersonInheritanceApp\PersonInheritanceApp\bin\Debug\PersonInheritanceApp.pdb
+C:\Users\Deepak\source\repos\PersonInheritanceApp\PersonInheritanceApp\obj\Debug\PersonInheritanceApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\PersonInheritanceApp\PersonInheritanceApp\obj\Debug\PersonInheritanceApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\PersonInheritanceApp\PersonInheritanceApp\obj\Debug\PersonInheritanceApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\PersonInheritanceApp\PersonInheritanceApp\obj\Debug\PersonInheritanceApp.exe
+C:\Users\Deepak\source\repos\PersonInheritanceApp\PersonInheritanceApp\obj\Debug\PersonInheritanceApp.pdb

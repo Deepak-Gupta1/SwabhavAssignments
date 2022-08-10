@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\DieRollingApp\DieRollingApp\bin\Debug\DieRollingApp.exe.config
+C:\Users\Deepak\source\repos\DieRollingApp\DieRollingApp\bin\Debug\DieRollingApp.exe
+C:\Users\Deepak\source\repos\DieRollingApp\DieRollingApp\bin\Debug\DieRollingApp.pdb
+C:\Users\Deepak\source\repos\DieRollingApp\DieRollingApp\obj\Debug\DieRollingApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\DieRollingApp\DieRollingApp\obj\Debug\DieRollingApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\DieRollingApp\DieRollingApp\obj\Debug\DieRollingApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\DieRollingApp\DieRollingApp\obj\Debug\DieRollingApp.exe
+C:\Users\Deepak\source\repos\DieRollingApp\DieRollingApp\obj\Debug\DieRollingApp.pdb

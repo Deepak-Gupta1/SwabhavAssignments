@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\MovieLayeredApp\MovieLayeredApp\obj\Debug\MovieLayeredApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\MovieLayeredApp\MovieLayeredApp\obj\Debug\MovieLayeredApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\MovieLayeredApp\MovieLayeredApp\obj\Debug\MovieLayeredApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\MovieLayeredApp\MovieLayeredApp\bin\Debug\MovieLayeredApp.exe.config
+C:\Users\Deepak\source\repos\MovieLayeredApp\MovieLayeredApp\bin\Debug\MovieLayeredApp.exe
+C:\Users\Deepak\source\repos\MovieLayeredApp\MovieLayeredApp\bin\Debug\MovieLayeredApp.pdb
+C:\Users\Deepak\source\repos\MovieLayeredApp\MovieLayeredApp\obj\Debug\MovieLayeredApp.exe
+C:\Users\Deepak\source\repos\MovieLayeredApp\MovieLayeredApp\obj\Debug\MovieLayeredApp.pdb

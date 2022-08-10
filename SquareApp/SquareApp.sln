@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareApp", "SquareApp\SquareApp.csproj", "{BC096079-BF61-4DE5-8015-90CAC5CC0D7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC096079-BF61-4DE5-8015-90CAC5CC0D7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC096079-BF61-4DE5-8015-90CAC5CC0D7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC096079-BF61-4DE5-8015-90CAC5CC0D7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC096079-BF61-4DE5-8015-90CAC5CC0D7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59ED7DEF-77F8-45F5-A60E-F105E880E89D}
+	EndGlobalSection
+EndGlobal

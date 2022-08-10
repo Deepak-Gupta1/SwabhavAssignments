@@ -1,0 +1,10 @@
+C:\Users\Deepak\source\repos\TDDTicTacToeSln\TicTacToeLib\bin\Debug\netstandard2.0\TicTacToeLib.deps.json
+C:\Users\Deepak\source\repos\TDDTicTacToeSln\TicTacToeLib\bin\Debug\netstandard2.0\TicTacToeLib.dll
+C:\Users\Deepak\source\repos\TDDTicTacToeSln\TicTacToeLib\bin\Debug\netstandard2.0\TicTacToeLib.pdb
+C:\Users\Deepak\source\repos\TDDTicTacToeSln\TicTacToeLib\obj\Debug\netstandard2.0\TicTacToeLib.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\TDDTicTacToeSln\TicTacToeLib\obj\Debug\netstandard2.0\TicTacToeLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deepak\source\repos\TDDTicTacToeSln\TicTacToeLib\obj\Debug\netstandard2.0\TicTacToeLib.AssemblyInfoInputs.cache
+C:\Users\Deepak\source\repos\TDDTicTacToeSln\TicTacToeLib\obj\Debug\netstandard2.0\TicTacToeLib.AssemblyInfo.cs
+C:\Users\Deepak\source\repos\TDDTicTacToeSln\TicTacToeLib\obj\Debug\netstandard2.0\TicTacToeLib.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\TDDTicTacToeSln\TicTacToeLib\obj\Debug\netstandard2.0\TicTacToeLib.dll
+C:\Users\Deepak\source\repos\TDDTicTacToeSln\TicTacToeLib\obj\Debug\netstandard2.0\TicTacToeLib.pdb

@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\SimpleMoviesApp\SimpleMoviesApp\bin\Debug\SimpleMoviesApp.exe.config
+C:\Users\Deepak\source\repos\SimpleMoviesApp\SimpleMoviesApp\bin\Debug\SimpleMoviesApp.exe
+C:\Users\Deepak\source\repos\SimpleMoviesApp\SimpleMoviesApp\bin\Debug\SimpleMoviesApp.pdb
+C:\Users\Deepak\source\repos\SimpleMoviesApp\SimpleMoviesApp\obj\Debug\SimpleMoviesApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\SimpleMoviesApp\SimpleMoviesApp\obj\Debug\SimpleMoviesApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\SimpleMoviesApp\SimpleMoviesApp\obj\Debug\SimpleMoviesApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\SimpleMoviesApp\SimpleMoviesApp\obj\Debug\SimpleMoviesApp.exe
+C:\Users\Deepak\source\repos\SimpleMoviesApp\SimpleMoviesApp\obj\Debug\SimpleMoviesApp.pdb

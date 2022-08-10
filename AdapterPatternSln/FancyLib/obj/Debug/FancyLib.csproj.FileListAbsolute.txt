@@ -1,0 +1,6 @@
+C:\Users\Deepak\source\repos\AdapterPatternSln\FancyLib\bin\Debug\FancyLib.dll
+C:\Users\Deepak\source\repos\AdapterPatternSln\FancyLib\bin\Debug\FancyLib.pdb
+C:\Users\Deepak\source\repos\AdapterPatternSln\FancyLib\obj\Debug\FancyLib.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\AdapterPatternSln\FancyLib\obj\Debug\FancyLib.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\AdapterPatternSln\FancyLib\obj\Debug\FancyLib.dll
+C:\Users\Deepak\source\repos\AdapterPatternSln\FancyLib\obj\Debug\FancyLib.pdb

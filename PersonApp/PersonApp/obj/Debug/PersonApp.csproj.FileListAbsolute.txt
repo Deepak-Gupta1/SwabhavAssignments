@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\PersonApp\PersonApp\bin\Debug\PersonApp.exe.config
+C:\Users\Deepak\source\repos\PersonApp\PersonApp\bin\Debug\PersonApp.exe
+C:\Users\Deepak\source\repos\PersonApp\PersonApp\bin\Debug\PersonApp.pdb
+C:\Users\Deepak\source\repos\PersonApp\PersonApp\obj\Debug\PersonApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\PersonApp\PersonApp\obj\Debug\PersonApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\PersonApp\PersonApp\obj\Debug\PersonApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\PersonApp\PersonApp\obj\Debug\PersonApp.exe
+C:\Users\Deepak\source\repos\PersonApp\PersonApp\obj\Debug\PersonApp.pdb

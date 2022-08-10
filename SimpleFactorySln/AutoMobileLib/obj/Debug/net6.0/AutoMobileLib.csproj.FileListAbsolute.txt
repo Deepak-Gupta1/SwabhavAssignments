@@ -1,0 +1,12 @@
+C:\Users\Deepak\source\repos\SimpleFactorySln\AutoMobileLib\bin\Debug\net6.0\AutoMobileLib.deps.json
+C:\Users\Deepak\source\repos\SimpleFactorySln\AutoMobileLib\bin\Debug\net6.0\AutoMobileLib.dll
+C:\Users\Deepak\source\repos\SimpleFactorySln\AutoMobileLib\bin\Debug\net6.0\AutoMobileLib.pdb
+C:\Users\Deepak\source\repos\SimpleFactorySln\AutoMobileLib\obj\Debug\net6.0\AutoMobileLib.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\SimpleFactorySln\AutoMobileLib\obj\Debug\net6.0\AutoMobileLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deepak\source\repos\SimpleFactorySln\AutoMobileLib\obj\Debug\net6.0\AutoMobileLib.AssemblyInfoInputs.cache
+C:\Users\Deepak\source\repos\SimpleFactorySln\AutoMobileLib\obj\Debug\net6.0\AutoMobileLib.AssemblyInfo.cs
+C:\Users\Deepak\source\repos\SimpleFactorySln\AutoMobileLib\obj\Debug\net6.0\AutoMobileLib.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\SimpleFactorySln\AutoMobileLib\obj\Debug\net6.0\AutoMobileLib.dll
+C:\Users\Deepak\source\repos\SimpleFactorySln\AutoMobileLib\obj\Debug\net6.0\refint\AutoMobileLib.dll
+C:\Users\Deepak\source\repos\SimpleFactorySln\AutoMobileLib\obj\Debug\net6.0\AutoMobileLib.pdb
+C:\Users\Deepak\source\repos\SimpleFactorySln\AutoMobileLib\obj\Debug\net6.0\ref\AutoMobileLib.dll

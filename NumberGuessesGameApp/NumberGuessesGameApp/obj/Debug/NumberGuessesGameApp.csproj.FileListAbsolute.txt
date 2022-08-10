@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\NumberGuessesGameApp\NumberGuessesGameApp\bin\Debug\NumberGuessesGameApp.exe.config
+C:\Users\Deepak\source\repos\NumberGuessesGameApp\NumberGuessesGameApp\bin\Debug\NumberGuessesGameApp.exe
+C:\Users\Deepak\source\repos\NumberGuessesGameApp\NumberGuessesGameApp\bin\Debug\NumberGuessesGameApp.pdb
+C:\Users\Deepak\source\repos\NumberGuessesGameApp\NumberGuessesGameApp\obj\Debug\NumberGuessesGameApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\NumberGuessesGameApp\NumberGuessesGameApp\obj\Debug\NumberGuessesGameApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\NumberGuessesGameApp\NumberGuessesGameApp\obj\Debug\NumberGuessesGameApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\NumberGuessesGameApp\NumberGuessesGameApp\obj\Debug\NumberGuessesGameApp.exe
+C:\Users\Deepak\source\repos\NumberGuessesGameApp\NumberGuessesGameApp\obj\Debug\NumberGuessesGameApp.pdb

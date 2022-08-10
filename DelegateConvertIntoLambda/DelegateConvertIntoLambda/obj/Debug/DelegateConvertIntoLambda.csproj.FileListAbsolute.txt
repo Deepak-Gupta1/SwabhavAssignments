@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\DelegateConvertIntoLambda\DelegateConvertIntoLambda\bin\Debug\DelegateConvertIntoLambda.exe.config
+C:\Users\Deepak\source\repos\DelegateConvertIntoLambda\DelegateConvertIntoLambda\bin\Debug\DelegateConvertIntoLambda.exe
+C:\Users\Deepak\source\repos\DelegateConvertIntoLambda\DelegateConvertIntoLambda\bin\Debug\DelegateConvertIntoLambda.pdb
+C:\Users\Deepak\source\repos\DelegateConvertIntoLambda\DelegateConvertIntoLambda\obj\Debug\DelegateConvertIntoLambda.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\DelegateConvertIntoLambda\DelegateConvertIntoLambda\obj\Debug\DelegateConvertIntoLambda.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\DelegateConvertIntoLambda\DelegateConvertIntoLambda\obj\Debug\DelegateConvertIntoLambda.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\DelegateConvertIntoLambda\DelegateConvertIntoLambda\obj\Debug\DelegateConvertIntoLambda.exe
+C:\Users\Deepak\source\repos\DelegateConvertIntoLambda\DelegateConvertIntoLambda\obj\Debug\DelegateConvertIntoLambda.pdb

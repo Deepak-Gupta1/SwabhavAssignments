@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\StringImmutableApp\StringImmutableApp\bin\Debug\StringImmutableApp.exe.config
+C:\Users\Deepak\source\repos\StringImmutableApp\StringImmutableApp\bin\Debug\StringImmutableApp.exe
+C:\Users\Deepak\source\repos\StringImmutableApp\StringImmutableApp\bin\Debug\StringImmutableApp.pdb
+C:\Users\Deepak\source\repos\StringImmutableApp\StringImmutableApp\obj\Debug\StringImmutableApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\StringImmutableApp\StringImmutableApp\obj\Debug\StringImmutableApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\StringImmutableApp\StringImmutableApp\obj\Debug\StringImmutableApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\StringImmutableApp\StringImmutableApp\obj\Debug\StringImmutableApp.exe
+C:\Users\Deepak\source\repos\StringImmutableApp\StringImmutableApp\obj\Debug\StringImmutableApp.pdb

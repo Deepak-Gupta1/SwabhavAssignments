@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\EventAndDelegatesApp\EventAndDelegatesApp\bin\Debug\EventAndDelegatesApp.exe.config
+C:\Users\Deepak\source\repos\EventAndDelegatesApp\EventAndDelegatesApp\bin\Debug\EventAndDelegatesApp.exe
+C:\Users\Deepak\source\repos\EventAndDelegatesApp\EventAndDelegatesApp\bin\Debug\EventAndDelegatesApp.pdb
+C:\Users\Deepak\source\repos\EventAndDelegatesApp\EventAndDelegatesApp\obj\Debug\EventAndDelegatesApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\EventAndDelegatesApp\EventAndDelegatesApp\obj\Debug\EventAndDelegatesApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\EventAndDelegatesApp\EventAndDelegatesApp\obj\Debug\EventAndDelegatesApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\EventAndDelegatesApp\EventAndDelegatesApp\obj\Debug\EventAndDelegatesApp.exe
+C:\Users\Deepak\source\repos\EventAndDelegatesApp\EventAndDelegatesApp\obj\Debug\EventAndDelegatesApp.pdb

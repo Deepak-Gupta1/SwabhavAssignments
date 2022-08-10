@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\SingleSkeletonApp\SingleSkeletonApp\obj\Debug\SingletonApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\SingleSkeletonApp\SingleSkeletonApp\obj\Debug\SingletonApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\SingleSkeletonApp\SingleSkeletonApp\obj\Debug\SingletonApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\SingleSkeletonApp\SingleSkeletonApp\obj\Debug\SingleSkeletonApp.exe
+C:\Users\Deepak\source\repos\SingleSkeletonApp\SingleSkeletonApp\obj\Debug\SingleSkeletonApp.pdb
+C:\Users\Deepak\source\repos\SingleSkeletonApp\SingleSkeletonApp\bin\Debug\SingleSkeletonApp.exe.config
+C:\Users\Deepak\source\repos\SingleSkeletonApp\SingleSkeletonApp\bin\Debug\SingleSkeletonApp.exe
+C:\Users\Deepak\source\repos\SingleSkeletonApp\SingleSkeletonApp\bin\Debug\SingleSkeletonApp.pdb

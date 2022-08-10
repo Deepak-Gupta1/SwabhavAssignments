@@ -1,0 +1,3 @@
+C:\Users\Deepak\source\repos\ManBoyInterfaceApp\ManBoyInterfaceApp\obj\Debug\ManBoyInterfaceApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\ManBoyInterfaceApp\ManBoyInterfaceApp\obj\Debug\ManBoyInterfaceApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\ManBoyInterfaceApp\ManBoyInterfaceApp\obj\Debug\ManBoyInterfaceApp.csproj.CoreCompileInputs.cache

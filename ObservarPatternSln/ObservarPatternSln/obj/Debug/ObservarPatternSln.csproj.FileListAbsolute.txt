@@ -1,0 +1,11 @@
+C:\Users\Deepak\source\repos\ObservarPatternSln\ObservarPatternSln\bin\Debug\ObservarPatternSln.exe.config
+C:\Users\Deepak\source\repos\ObservarPatternSln\ObservarPatternSln\bin\Debug\ObservarPatternSln.exe
+C:\Users\Deepak\source\repos\ObservarPatternSln\ObservarPatternSln\bin\Debug\ObservarPatternSln.pdb
+C:\Users\Deepak\source\repos\ObservarPatternSln\ObservarPatternSln\bin\Debug\PublisherLib.dll
+C:\Users\Deepak\source\repos\ObservarPatternSln\ObservarPatternSln\bin\Debug\PublisherLib.pdb
+C:\Users\Deepak\source\repos\ObservarPatternSln\ObservarPatternSln\obj\Debug\ObservarPatternSln.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\ObservarPatternSln\ObservarPatternSln\obj\Debug\ObservarPatternSln.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\ObservarPatternSln\ObservarPatternSln\obj\Debug\ObservarPatternSln.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\ObservarPatternSln\ObservarPatternSln\obj\Debug\ObservarPatternSln.csproj.CopyComplete
+C:\Users\Deepak\source\repos\ObservarPatternSln\ObservarPatternSln\obj\Debug\ObservarPatternSln.exe
+C:\Users\Deepak\source\repos\ObservarPatternSln\ObservarPatternSln\obj\Debug\ObservarPatternSln.pdb

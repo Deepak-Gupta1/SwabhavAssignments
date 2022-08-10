@@ -1,0 +1,12 @@
+C:\Users\Deepak\source\repos\SimpleFactorySln\AutoobileLib\bin\Debug\net6.0\AutoobileLib.deps.json
+C:\Users\Deepak\source\repos\SimpleFactorySln\AutoobileLib\bin\Debug\net6.0\AutoobileLib.dll
+C:\Users\Deepak\source\repos\SimpleFactorySln\AutoobileLib\bin\Debug\net6.0\AutoobileLib.pdb
+C:\Users\Deepak\source\repos\SimpleFactorySln\AutoobileLib\obj\Debug\net6.0\AutoobileLib.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\SimpleFactorySln\AutoobileLib\obj\Debug\net6.0\AutoobileLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deepak\source\repos\SimpleFactorySln\AutoobileLib\obj\Debug\net6.0\AutoobileLib.AssemblyInfoInputs.cache
+C:\Users\Deepak\source\repos\SimpleFactorySln\AutoobileLib\obj\Debug\net6.0\AutoobileLib.AssemblyInfo.cs
+C:\Users\Deepak\source\repos\SimpleFactorySln\AutoobileLib\obj\Debug\net6.0\AutoobileLib.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\SimpleFactorySln\AutoobileLib\obj\Debug\net6.0\AutoobileLib.dll
+C:\Users\Deepak\source\repos\SimpleFactorySln\AutoobileLib\obj\Debug\net6.0\refint\AutoobileLib.dll
+C:\Users\Deepak\source\repos\SimpleFactorySln\AutoobileLib\obj\Debug\net6.0\AutoobileLib.pdb
+C:\Users\Deepak\source\repos\SimpleFactorySln\AutoobileLib\obj\Debug\net6.0\ref\AutoobileLib.dll

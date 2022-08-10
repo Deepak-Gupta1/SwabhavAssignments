@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\HumanApp\HumanApp\bin\Debug\HumanApp.exe.config
+C:\Users\Deepak\source\repos\HumanApp\HumanApp\bin\Debug\HumanApp.exe
+C:\Users\Deepak\source\repos\HumanApp\HumanApp\bin\Debug\HumanApp.pdb
+C:\Users\Deepak\source\repos\HumanApp\HumanApp\obj\Debug\HumanApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\HumanApp\HumanApp\obj\Debug\HumanApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\HumanApp\HumanApp\obj\Debug\HumanApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\HumanApp\HumanApp\obj\Debug\HumanApp.exe
+C:\Users\Deepak\source\repos\HumanApp\HumanApp\obj\Debug\HumanApp.pdb

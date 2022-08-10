@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\SPRSln\SPRViolationApp\bin\Debug\SPRViolationApp.exe.config
+C:\Users\Deepak\source\repos\SPRSln\SPRViolationApp\bin\Debug\SPRViolationApp.exe
+C:\Users\Deepak\source\repos\SPRSln\SPRViolationApp\bin\Debug\SPRViolationApp.pdb
+C:\Users\Deepak\source\repos\SPRSln\SPRViolationApp\obj\Debug\SPRViolationApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\SPRSln\SPRViolationApp\obj\Debug\SPRViolationApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\SPRSln\SPRViolationApp\obj\Debug\SPRViolationApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\SPRSln\SPRViolationApp\obj\Debug\SPRViolationApp.exe
+C:\Users\Deepak\source\repos\SPRSln\SPRViolationApp\obj\Debug\SPRViolationApp.pdb

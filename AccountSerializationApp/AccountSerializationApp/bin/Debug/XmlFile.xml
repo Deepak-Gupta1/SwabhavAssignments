@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Account xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <_accno>101</_accno>
+  <_name>Deepak</_name>
+  <_balance>10000</_balance>
+  <Accno>101</Accno>
+  <Name>Deepak</Name>
+</Account>

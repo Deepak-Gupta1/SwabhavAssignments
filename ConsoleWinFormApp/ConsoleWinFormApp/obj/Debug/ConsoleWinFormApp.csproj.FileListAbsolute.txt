@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\ConsoleWinFormApp\ConsoleWinFormApp\bin\Debug\ConsoleWinFormApp.exe.config
+C:\Users\Deepak\source\repos\ConsoleWinFormApp\ConsoleWinFormApp\bin\Debug\ConsoleWinFormApp.exe
+C:\Users\Deepak\source\repos\ConsoleWinFormApp\ConsoleWinFormApp\bin\Debug\ConsoleWinFormApp.pdb
+C:\Users\Deepak\source\repos\ConsoleWinFormApp\ConsoleWinFormApp\obj\Debug\ConsoleWinFormApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\ConsoleWinFormApp\ConsoleWinFormApp\obj\Debug\ConsoleWinFormApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\ConsoleWinFormApp\ConsoleWinFormApp\obj\Debug\ConsoleWinFormApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\ConsoleWinFormApp\ConsoleWinFormApp\obj\Debug\ConsoleWinFormApp.exe
+C:\Users\Deepak\source\repos\ConsoleWinFormApp\ConsoleWinFormApp\obj\Debug\ConsoleWinFormApp.pdb

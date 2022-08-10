@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\LoopApp\LoopApp\bin\Debug\LoopApp.exe.config
+C:\Users\Deepak\source\repos\LoopApp\LoopApp\bin\Debug\LoopApp.exe
+C:\Users\Deepak\source\repos\LoopApp\LoopApp\bin\Debug\LoopApp.pdb
+C:\Users\Deepak\source\repos\LoopApp\LoopApp\obj\Debug\LoopApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\LoopApp\LoopApp\obj\Debug\LoopApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\LoopApp\LoopApp\obj\Debug\LoopApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\LoopApp\LoopApp\obj\Debug\LoopApp.exe
+C:\Users\Deepak\source\repos\LoopApp\LoopApp\obj\Debug\LoopApp.pdb

@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\PassingParameterApp\PassingParameterApp\bin\Debug\PassingParameterApp.exe.config
+C:\Users\Deepak\source\repos\PassingParameterApp\PassingParameterApp\bin\Debug\PassingParameterApp.exe
+C:\Users\Deepak\source\repos\PassingParameterApp\PassingParameterApp\bin\Debug\PassingParameterApp.pdb
+C:\Users\Deepak\source\repos\PassingParameterApp\PassingParameterApp\obj\Debug\PassingParameterApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\PassingParameterApp\PassingParameterApp\obj\Debug\PassingParameterApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\PassingParameterApp\PassingParameterApp\obj\Debug\PassingParameterApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\PassingParameterApp\PassingParameterApp\obj\Debug\PassingParameterApp.exe
+C:\Users\Deepak\source\repos\PassingParameterApp\PassingParameterApp\obj\Debug\PassingParameterApp.pdb

@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\PlayerApp\PlayerApp\bin\Debug\PlayerApp.exe.config
+C:\Users\Deepak\source\repos\PlayerApp\PlayerApp\bin\Debug\PlayerApp.exe
+C:\Users\Deepak\source\repos\PlayerApp\PlayerApp\bin\Debug\PlayerApp.pdb
+C:\Users\Deepak\source\repos\PlayerApp\PlayerApp\obj\Debug\PlayerApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\PlayerApp\PlayerApp\obj\Debug\PlayerApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\PlayerApp\PlayerApp\obj\Debug\PlayerApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\PlayerApp\PlayerApp\obj\Debug\PlayerApp.exe
+C:\Users\Deepak\source\repos\PlayerApp\PlayerApp\obj\Debug\PlayerApp.pdb

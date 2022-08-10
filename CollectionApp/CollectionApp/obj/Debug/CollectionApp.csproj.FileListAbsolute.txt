@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\CollectionApp\CollectionApp\bin\Debug\CollectionApp.exe.config
+C:\Users\Deepak\source\repos\CollectionApp\CollectionApp\bin\Debug\CollectionApp.exe
+C:\Users\Deepak\source\repos\CollectionApp\CollectionApp\bin\Debug\CollectionApp.pdb
+C:\Users\Deepak\source\repos\CollectionApp\CollectionApp\obj\Debug\CollectionApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\CollectionApp\CollectionApp\obj\Debug\CollectionApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\CollectionApp\CollectionApp\obj\Debug\CollectionApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\CollectionApp\CollectionApp\obj\Debug\CollectionApp.exe
+C:\Users\Deepak\source\repos\CollectionApp\CollectionApp\obj\Debug\CollectionApp.pdb

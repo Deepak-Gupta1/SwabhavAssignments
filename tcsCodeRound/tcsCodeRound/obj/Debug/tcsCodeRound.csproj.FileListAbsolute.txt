@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\tcsCodeRound\tcsCodeRound\bin\Debug\tcsCodeRound.exe.config
+C:\Users\Deepak\source\repos\tcsCodeRound\tcsCodeRound\bin\Debug\tcsCodeRound.exe
+C:\Users\Deepak\source\repos\tcsCodeRound\tcsCodeRound\bin\Debug\tcsCodeRound.pdb
+C:\Users\Deepak\source\repos\tcsCodeRound\tcsCodeRound\obj\Debug\tcsCodeRound.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\tcsCodeRound\tcsCodeRound\obj\Debug\tcsCodeRound.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\tcsCodeRound\tcsCodeRound\obj\Debug\tcsCodeRound.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\tcsCodeRound\tcsCodeRound\obj\Debug\tcsCodeRound.exe
+C:\Users\Deepak\source\repos\tcsCodeRound\tcsCodeRound\obj\Debug\tcsCodeRound.pdb

@@ -1,0 +1,11 @@
+C:\Users\Deepak\source\repos\SynchronousAsysnchronousApp\SynchronousAsysnchronousApp\bin\Debug\SynchronousAsysnchronousApp.exe.config
+C:\Users\Deepak\source\repos\SynchronousAsysnchronousApp\SynchronousAsysnchronousApp\bin\Debug\SynchronousAsysnchronousApp.exe
+C:\Users\Deepak\source\repos\SynchronousAsysnchronousApp\SynchronousAsysnchronousApp\bin\Debug\SynchronousAsysnchronousApp.pdb
+C:\Users\Deepak\source\repos\SynchronousAsysnchronousApp\SynchronousAsysnchronousApp\obj\Debug\SynchronousAsysnchronousApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\SynchronousAsysnchronousApp\SynchronousAsysnchronousApp\obj\Debug\SynchronousAsysnchronousApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\SynchronousAsysnchronousApp\SynchronousAsysnchronousApp\obj\Debug\SynchronousAsysnchronousApp.Properties.Resources.resources
+C:\Users\Deepak\source\repos\SynchronousAsysnchronousApp\SynchronousAsysnchronousApp\obj\Debug\SynchronousAsysnchronousApp.csproj.GenerateResource.cache
+C:\Users\Deepak\source\repos\SynchronousAsysnchronousApp\SynchronousAsysnchronousApp\obj\Debug\SynchronousAsysnchronousApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\SynchronousAsysnchronousApp\SynchronousAsysnchronousApp\obj\Debug\SynchronousAsysnchronousApp.exe
+C:\Users\Deepak\source\repos\SynchronousAsysnchronousApp\SynchronousAsysnchronousApp\obj\Debug\SynchronousAsysnchronousApp.pdb
+C:\Users\Deepak\source\repos\SynchronousAsysnchronousApp\SynchronousAsysnchronousApp\obj\Debug\SynchronousAsysnchronousApp.Form1.resources

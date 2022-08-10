@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\RectangleDRYApp\RectangleDRYApp\bin\Debug\RectangleDRYApp.exe.config
+C:\Users\Deepak\source\repos\RectangleDRYApp\RectangleDRYApp\bin\Debug\RectangleDRYApp.exe
+C:\Users\Deepak\source\repos\RectangleDRYApp\RectangleDRYApp\bin\Debug\RectangleDRYApp.pdb
+C:\Users\Deepak\source\repos\RectangleDRYApp\RectangleDRYApp\obj\Debug\RectangleDRYApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\RectangleDRYApp\RectangleDRYApp\obj\Debug\RectangleDRYApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\RectangleDRYApp\RectangleDRYApp\obj\Debug\RectangleDRYApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\RectangleDRYApp\RectangleDRYApp\obj\Debug\RectangleDRYApp.exe
+C:\Users\Deepak\source\repos\RectangleDRYApp\RectangleDRYApp\obj\Debug\RectangleDRYApp.pdb

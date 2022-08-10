@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\AccountRelationUnitTestApp\AccountRelationUnitTestApp\bin\Debug\AccountRelationUnitTestApp.exe.config
+C:\Users\Deepak\source\repos\AccountRelationUnitTestApp\AccountRelationUnitTestApp\bin\Debug\AccountRelationUnitTestApp.exe
+C:\Users\Deepak\source\repos\AccountRelationUnitTestApp\AccountRelationUnitTestApp\bin\Debug\AccountRelationUnitTestApp.pdb
+C:\Users\Deepak\source\repos\AccountRelationUnitTestApp\AccountRelationUnitTestApp\obj\Debug\AccountRelationUnitTestApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\AccountRelationUnitTestApp\AccountRelationUnitTestApp\obj\Debug\AccountRelationUnitTestApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\AccountRelationUnitTestApp\AccountRelationUnitTestApp\obj\Debug\AccountRelationUnitTestApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\AccountRelationUnitTestApp\AccountRelationUnitTestApp\obj\Debug\AccountRelationUnitTestApp.exe
+C:\Users\Deepak\source\repos\AccountRelationUnitTestApp\AccountRelationUnitTestApp\obj\Debug\AccountRelationUnitTestApp.pdb

@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\EmployeePolymorhismApp\EmployeePolymorhismApp\bin\Debug\EmployeePolymorhismApp.exe.config
+C:\Users\Deepak\source\repos\EmployeePolymorhismApp\EmployeePolymorhismApp\bin\Debug\EmployeePolymorhismApp.exe
+C:\Users\Deepak\source\repos\EmployeePolymorhismApp\EmployeePolymorhismApp\bin\Debug\EmployeePolymorhismApp.pdb
+C:\Users\Deepak\source\repos\EmployeePolymorhismApp\EmployeePolymorhismApp\obj\Debug\EmployeePolymorhismApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\EmployeePolymorhismApp\EmployeePolymorhismApp\obj\Debug\EmployeePolymorhismApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\EmployeePolymorhismApp\EmployeePolymorhismApp\obj\Debug\EmployeePolymorhismApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\EmployeePolymorhismApp\EmployeePolymorhismApp\obj\Debug\EmployeePolymorhismApp.exe
+C:\Users\Deepak\source\repos\EmployeePolymorhismApp\EmployeePolymorhismApp\obj\Debug\EmployeePolymorhismApp.pdb

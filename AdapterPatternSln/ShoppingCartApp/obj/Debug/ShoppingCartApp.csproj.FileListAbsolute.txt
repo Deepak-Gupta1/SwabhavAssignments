@@ -1,0 +1,11 @@
+C:\Users\Deepak\source\repos\AdapterPatternSln\ShoppingCartApp\bin\Debug\ShoppingCartApp.exe.config
+C:\Users\Deepak\source\repos\AdapterPatternSln\ShoppingCartApp\bin\Debug\ShoppingCartApp.exe
+C:\Users\Deepak\source\repos\AdapterPatternSln\ShoppingCartApp\bin\Debug\ShoppingCartApp.pdb
+C:\Users\Deepak\source\repos\AdapterPatternSln\ShoppingCartApp\bin\Debug\FancyLib.dll
+C:\Users\Deepak\source\repos\AdapterPatternSln\ShoppingCartApp\bin\Debug\FancyLib.pdb
+C:\Users\Deepak\source\repos\AdapterPatternSln\ShoppingCartApp\obj\Debug\ShoppingCartApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\AdapterPatternSln\ShoppingCartApp\obj\Debug\ShoppingCartApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\AdapterPatternSln\ShoppingCartApp\obj\Debug\ShoppingCartApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\AdapterPatternSln\ShoppingCartApp\obj\Debug\ShoppingCartApp.csproj.CopyComplete
+C:\Users\Deepak\source\repos\AdapterPatternSln\ShoppingCartApp\obj\Debug\ShoppingCartApp.exe
+C:\Users\Deepak\source\repos\AdapterPatternSln\ShoppingCartApp\obj\Debug\ShoppingCartApp.pdb

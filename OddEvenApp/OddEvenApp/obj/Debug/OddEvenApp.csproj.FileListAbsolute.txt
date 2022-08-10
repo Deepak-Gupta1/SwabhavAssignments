@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\OddEvenApp\OddEvenApp\bin\Debug\OddEvenApp.exe.config
+C:\Users\Deepak\source\repos\OddEvenApp\OddEvenApp\bin\Debug\OddEvenApp.exe
+C:\Users\Deepak\source\repos\OddEvenApp\OddEvenApp\bin\Debug\OddEvenApp.pdb
+C:\Users\Deepak\source\repos\OddEvenApp\OddEvenApp\obj\Debug\OddEvenApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\OddEvenApp\OddEvenApp\obj\Debug\OddEvenApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\OddEvenApp\OddEvenApp\obj\Debug\OddEvenApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\OddEvenApp\OddEvenApp\obj\Debug\OddEvenApp.exe
+C:\Users\Deepak\source\repos\OddEvenApp\OddEvenApp\obj\Debug\OddEvenApp.pdb

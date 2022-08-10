@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\SimpleDelegateApp\SimpleDelegateApp\bin\Debug\SimpleDelegateApp.exe.config
+C:\Users\Deepak\source\repos\SimpleDelegateApp\SimpleDelegateApp\bin\Debug\SimpleDelegateApp.exe
+C:\Users\Deepak\source\repos\SimpleDelegateApp\SimpleDelegateApp\bin\Debug\SimpleDelegateApp.pdb
+C:\Users\Deepak\source\repos\SimpleDelegateApp\SimpleDelegateApp\obj\Debug\SimpleDelegateApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\SimpleDelegateApp\SimpleDelegateApp\obj\Debug\SimpleDelegateApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\SimpleDelegateApp\SimpleDelegateApp\obj\Debug\SimpleDelegateApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\SimpleDelegateApp\SimpleDelegateApp\obj\Debug\SimpleDelegateApp.exe
+C:\Users\Deepak\source\repos\SimpleDelegateApp\SimpleDelegateApp\obj\Debug\SimpleDelegateApp.pdb

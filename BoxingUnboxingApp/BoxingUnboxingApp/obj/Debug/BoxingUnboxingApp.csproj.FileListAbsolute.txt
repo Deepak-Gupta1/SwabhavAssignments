@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\BoxingUnboxingApp\BoxingUnboxingApp\bin\Debug\BoxingUnboxingApp.exe.config
+C:\Users\Deepak\source\repos\BoxingUnboxingApp\BoxingUnboxingApp\bin\Debug\BoxingUnboxingApp.exe
+C:\Users\Deepak\source\repos\BoxingUnboxingApp\BoxingUnboxingApp\bin\Debug\BoxingUnboxingApp.pdb
+C:\Users\Deepak\source\repos\BoxingUnboxingApp\BoxingUnboxingApp\obj\Debug\BoxingUnboxingApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\BoxingUnboxingApp\BoxingUnboxingApp\obj\Debug\BoxingUnboxingApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\BoxingUnboxingApp\BoxingUnboxingApp\obj\Debug\BoxingUnboxingApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\BoxingUnboxingApp\BoxingUnboxingApp\obj\Debug\BoxingUnboxingApp.exe
+C:\Users\Deepak\source\repos\BoxingUnboxingApp\BoxingUnboxingApp\obj\Debug\BoxingUnboxingApp.pdb

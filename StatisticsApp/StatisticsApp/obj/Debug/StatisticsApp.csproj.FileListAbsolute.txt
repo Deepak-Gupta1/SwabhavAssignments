@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\StatisticsApp\StatisticsApp\bin\Debug\StatisticsApp.exe.config
+C:\Users\Deepak\source\repos\StatisticsApp\StatisticsApp\bin\Debug\StatisticsApp.exe
+C:\Users\Deepak\source\repos\StatisticsApp\StatisticsApp\bin\Debug\StatisticsApp.pdb
+C:\Users\Deepak\source\repos\StatisticsApp\StatisticsApp\obj\Debug\StatisticsApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\StatisticsApp\StatisticsApp\obj\Debug\StatisticsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\StatisticsApp\StatisticsApp\obj\Debug\StatisticsApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\StatisticsApp\StatisticsApp\obj\Debug\StatisticsApp.exe
+C:\Users\Deepak\source\repos\StatisticsApp\StatisticsApp\obj\Debug\StatisticsApp.pdb

@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\AccountApp\AccountApp\bin\Debug\AccountApp.exe.config
+C:\Users\Deepak\source\repos\AccountApp\AccountApp\bin\Debug\AccountApp.exe
+C:\Users\Deepak\source\repos\AccountApp\AccountApp\bin\Debug\AccountApp.pdb
+C:\Users\Deepak\source\repos\AccountApp\AccountApp\obj\Debug\AccountApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\AccountApp\AccountApp\obj\Debug\AccountApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\AccountApp\AccountApp\obj\Debug\AccountApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\AccountApp\AccountApp\obj\Debug\AccountApp.exe
+C:\Users\Deepak\source\repos\AccountApp\AccountApp\obj\Debug\AccountApp.pdb

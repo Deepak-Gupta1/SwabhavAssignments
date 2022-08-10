@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zlPz4Tz9wN0/yp6xZpygopFyqjCqYs5kpY/fj4BhiriJaJX8hXbrn1M4ReMfW+NPlxp80HNzC6TqwK1tUi+wWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Deepak\\source\\repos\\TDDTicTacToeSln\\TicTacToeLib\\TicTacToeLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Deepak\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Deepak\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

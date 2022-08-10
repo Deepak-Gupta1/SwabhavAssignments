@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\AccountEqualityApp\AccountEqualityApp\bin\Debug\AccountEqualityApp.exe.config
+C:\Users\Deepak\source\repos\AccountEqualityApp\AccountEqualityApp\bin\Debug\AccountEqualityApp.exe
+C:\Users\Deepak\source\repos\AccountEqualityApp\AccountEqualityApp\bin\Debug\AccountEqualityApp.pdb
+C:\Users\Deepak\source\repos\AccountEqualityApp\AccountEqualityApp\obj\Debug\AccountEqualityApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\AccountEqualityApp\AccountEqualityApp\obj\Debug\AccountEqualityApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\AccountEqualityApp\AccountEqualityApp\obj\Debug\AccountEqualityApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\AccountEqualityApp\AccountEqualityApp\obj\Debug\AccountEqualityApp.exe
+C:\Users\Deepak\source\repos\AccountEqualityApp\AccountEqualityApp\obj\Debug\AccountEqualityApp.pdb

@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\CustomerEncapApp\CustomerEncapApp\bin\Debug\CustomerEncapApp.exe.config
+C:\Users\Deepak\source\repos\CustomerEncapApp\CustomerEncapApp\bin\Debug\CustomerEncapApp.exe
+C:\Users\Deepak\source\repos\CustomerEncapApp\CustomerEncapApp\bin\Debug\CustomerEncapApp.pdb
+C:\Users\Deepak\source\repos\CustomerEncapApp\CustomerEncapApp\obj\Debug\CustomerEncapApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\CustomerEncapApp\CustomerEncapApp\obj\Debug\CustomerEncapApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\CustomerEncapApp\CustomerEncapApp\obj\Debug\CustomerEncapApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\CustomerEncapApp\CustomerEncapApp\obj\Debug\CustomerEncapApp.exe
+C:\Users\Deepak\source\repos\CustomerEncapApp\CustomerEncapApp\obj\Debug\CustomerEncapApp.pdb

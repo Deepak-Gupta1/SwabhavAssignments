@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\InheritanceApp\InheritanceApp\bin\Debug\InheritanceApp.exe.config
+C:\Users\Deepak\source\repos\InheritanceApp\InheritanceApp\bin\Debug\InheritanceApp.exe
+C:\Users\Deepak\source\repos\InheritanceApp\InheritanceApp\bin\Debug\InheritanceApp.pdb
+C:\Users\Deepak\source\repos\InheritanceApp\InheritanceApp\obj\Debug\InheritanceApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\InheritanceApp\InheritanceApp\obj\Debug\InheritanceApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\InheritanceApp\InheritanceApp\obj\Debug\InheritanceApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\InheritanceApp\InheritanceApp\obj\Debug\InheritanceApp.exe
+C:\Users\Deepak\source\repos\InheritanceApp\InheritanceApp\obj\Debug\InheritanceApp.pdb

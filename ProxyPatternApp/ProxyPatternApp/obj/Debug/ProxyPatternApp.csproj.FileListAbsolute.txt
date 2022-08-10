@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\ProxyPatternApp\ProxyPatternApp\bin\Debug\ProxyPatternApp.exe.config
+C:\Users\Deepak\source\repos\ProxyPatternApp\ProxyPatternApp\bin\Debug\ProxyPatternApp.exe
+C:\Users\Deepak\source\repos\ProxyPatternApp\ProxyPatternApp\bin\Debug\ProxyPatternApp.pdb
+C:\Users\Deepak\source\repos\ProxyPatternApp\ProxyPatternApp\obj\Debug\ProxyPatternApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\ProxyPatternApp\ProxyPatternApp\obj\Debug\ProxyPatternApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\ProxyPatternApp\ProxyPatternApp\obj\Debug\ProxyPatternApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\ProxyPatternApp\ProxyPatternApp\obj\Debug\ProxyPatternApp.exe
+C:\Users\Deepak\source\repos\ProxyPatternApp\ProxyPatternApp\obj\Debug\ProxyPatternApp.pdb

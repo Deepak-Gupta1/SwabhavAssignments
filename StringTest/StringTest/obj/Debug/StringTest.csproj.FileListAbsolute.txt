@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\StringTest\StringTest\bin\Debug\StringTest.exe.config
+C:\Users\Deepak\source\repos\StringTest\StringTest\bin\Debug\StringTest.exe
+C:\Users\Deepak\source\repos\StringTest\StringTest\bin\Debug\StringTest.pdb
+C:\Users\Deepak\source\repos\StringTest\StringTest\obj\Debug\StringTest.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\StringTest\StringTest\obj\Debug\StringTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\StringTest\StringTest\obj\Debug\StringTest.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\StringTest\StringTest\obj\Debug\StringTest.exe
+C:\Users\Deepak\source\repos\StringTest\StringTest\obj\Debug\StringTest.pdb

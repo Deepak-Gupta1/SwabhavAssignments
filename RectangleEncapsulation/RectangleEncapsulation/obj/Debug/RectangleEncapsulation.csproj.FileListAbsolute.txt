@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\RectangleEncapsulation\RectangleEncapsulation\bin\Debug\RectangleEncapsulation.exe.config
+C:\Users\Deepak\source\repos\RectangleEncapsulation\RectangleEncapsulation\bin\Debug\RectangleEncapsulation.exe
+C:\Users\Deepak\source\repos\RectangleEncapsulation\RectangleEncapsulation\bin\Debug\RectangleEncapsulation.pdb
+C:\Users\Deepak\source\repos\RectangleEncapsulation\RectangleEncapsulation\obj\Debug\RectangleEncapsulation.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\RectangleEncapsulation\RectangleEncapsulation\obj\Debug\RectangleEncapsulation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\RectangleEncapsulation\RectangleEncapsulation\obj\Debug\RectangleEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\RectangleEncapsulation\RectangleEncapsulation\obj\Debug\RectangleEncapsulation.exe
+C:\Users\Deepak\source\repos\RectangleEncapsulation\RectangleEncapsulation\obj\Debug\RectangleEncapsulation.pdb

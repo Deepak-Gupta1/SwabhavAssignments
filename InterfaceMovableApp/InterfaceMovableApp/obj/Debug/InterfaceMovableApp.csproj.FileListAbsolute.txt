@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\InterfaceMovableApp\InterfaceMovableApp\bin\Debug\InterfaceMovableApp.exe.config
+C:\Users\Deepak\source\repos\InterfaceMovableApp\InterfaceMovableApp\bin\Debug\InterfaceMovableApp.exe
+C:\Users\Deepak\source\repos\InterfaceMovableApp\InterfaceMovableApp\bin\Debug\InterfaceMovableApp.pdb
+C:\Users\Deepak\source\repos\InterfaceMovableApp\InterfaceMovableApp\obj\Debug\InterfaceMovableApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\InterfaceMovableApp\InterfaceMovableApp\obj\Debug\InterfaceMovableApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\InterfaceMovableApp\InterfaceMovableApp\obj\Debug\InterfaceMovableApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\InterfaceMovableApp\InterfaceMovableApp\obj\Debug\InterfaceMovableApp.exe
+C:\Users\Deepak\source\repos\InterfaceMovableApp\InterfaceMovableApp\obj\Debug\InterfaceMovableApp.pdb

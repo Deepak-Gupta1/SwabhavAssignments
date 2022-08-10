@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\DiamondProblemApp\DiamondProblemApp\bin\Debug\DiamondProblemApp.exe.config
+C:\Users\Deepak\source\repos\DiamondProblemApp\DiamondProblemApp\bin\Debug\DiamondProblemApp.exe
+C:\Users\Deepak\source\repos\DiamondProblemApp\DiamondProblemApp\bin\Debug\DiamondProblemApp.pdb
+C:\Users\Deepak\source\repos\DiamondProblemApp\DiamondProblemApp\obj\Debug\DiamondProblemApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\DiamondProblemApp\DiamondProblemApp\obj\Debug\DiamondProblemApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\DiamondProblemApp\DiamondProblemApp\obj\Debug\DiamondProblemApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\DiamondProblemApp\DiamondProblemApp\obj\Debug\DiamondProblemApp.exe
+C:\Users\Deepak\source\repos\DiamondProblemApp\DiamondProblemApp\obj\Debug\DiamondProblemApp.pdb

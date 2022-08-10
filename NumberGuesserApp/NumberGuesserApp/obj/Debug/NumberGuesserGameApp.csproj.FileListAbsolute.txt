@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\NumberGuesserApp\NumberGuesserApp\bin\Debug\NumberGuesserApp.exe.config
+C:\Users\Deepak\source\repos\NumberGuesserApp\NumberGuesserApp\bin\Debug\NumberGuesserApp.exe
+C:\Users\Deepak\source\repos\NumberGuesserApp\NumberGuesserApp\bin\Debug\NumberGuesserApp.pdb
+C:\Users\Deepak\source\repos\NumberGuesserApp\NumberGuesserApp\obj\Debug\NumberGuesserGameApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\NumberGuesserApp\NumberGuesserApp\obj\Debug\NumberGuesserGameApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\NumberGuesserApp\NumberGuesserApp\obj\Debug\NumberGuesserGameApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\NumberGuesserApp\NumberGuesserApp\obj\Debug\NumberGuesserApp.exe
+C:\Users\Deepak\source\repos\NumberGuesserApp\NumberGuesserApp\obj\Debug\NumberGuesserApp.pdb

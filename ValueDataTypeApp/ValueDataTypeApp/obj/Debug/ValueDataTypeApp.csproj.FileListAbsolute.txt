@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\ValueDataTypeApp\ValueDataTypeApp\bin\Debug\ValueDataTypeApp.exe.config
+C:\Users\Deepak\source\repos\ValueDataTypeApp\ValueDataTypeApp\bin\Debug\ValueDataTypeApp.exe
+C:\Users\Deepak\source\repos\ValueDataTypeApp\ValueDataTypeApp\bin\Debug\ValueDataTypeApp.pdb
+C:\Users\Deepak\source\repos\ValueDataTypeApp\ValueDataTypeApp\obj\Debug\ValueDataTypeApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\ValueDataTypeApp\ValueDataTypeApp\obj\Debug\ValueDataTypeApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\ValueDataTypeApp\ValueDataTypeApp\obj\Debug\ValueDataTypeApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\ValueDataTypeApp\ValueDataTypeApp\obj\Debug\ValueDataTypeApp.exe
+C:\Users\Deepak\source\repos\ValueDataTypeApp\ValueDataTypeApp\obj\Debug\ValueDataTypeApp.pdb

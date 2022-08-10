@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\FuncActionApp\FuncActionApp\obj\Debug\FuncActionApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\FuncActionApp\FuncActionApp\obj\Debug\FuncActionApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\FuncActionApp\FuncActionApp\obj\Debug\FuncActionApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\FuncActionApp\FuncActionApp\bin\Debug\FuncActionApp.exe.config
+C:\Users\Deepak\source\repos\FuncActionApp\FuncActionApp\bin\Debug\FuncActionApp.exe
+C:\Users\Deepak\source\repos\FuncActionApp\FuncActionApp\bin\Debug\FuncActionApp.pdb
+C:\Users\Deepak\source\repos\FuncActionApp\FuncActionApp\obj\Debug\FuncActionApp.exe
+C:\Users\Deepak\source\repos\FuncActionApp\FuncActionApp\obj\Debug\FuncActionApp.pdb

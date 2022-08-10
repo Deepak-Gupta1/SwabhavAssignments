@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\SquareApp\SquareApp\obj\Debug\SquareApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\SquareApp\SquareApp\obj\Debug\SquareApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\SquareApp\SquareApp\obj\Debug\SquareApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\SquareApp\SquareApp\bin\Debug\SquareApp.exe.config
+C:\Users\Deepak\source\repos\SquareApp\SquareApp\bin\Debug\SquareApp.exe
+C:\Users\Deepak\source\repos\SquareApp\SquareApp\bin\Debug\SquareApp.pdb
+C:\Users\Deepak\source\repos\SquareApp\SquareApp\obj\Debug\SquareApp.exe
+C:\Users\Deepak\source\repos\SquareApp\SquareApp\obj\Debug\SquareApp.pdb

@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\OCSln\OCSln\bin\Debug\OCSln.exe.config
+C:\Users\Deepak\source\repos\OCSln\OCSln\bin\Debug\OCSln.exe
+C:\Users\Deepak\source\repos\OCSln\OCSln\bin\Debug\OCSln.pdb
+C:\Users\Deepak\source\repos\OCSln\OCSln\obj\Debug\OCSln.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\OCSln\OCSln\obj\Debug\OCSln.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\OCSln\OCSln\obj\Debug\OCSln.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\OCSln\OCSln\obj\Debug\OCSln.exe
+C:\Users\Deepak\source\repos\OCSln\OCSln\obj\Debug\OCSln.pdb

@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\ProofOfConceptAPP\ProofOfConceptAPP\bin\Debug\ProofOfConceptAPP.exe.config
+C:\Users\Deepak\source\repos\ProofOfConceptAPP\ProofOfConceptAPP\bin\Debug\ProofOfConceptAPP.exe
+C:\Users\Deepak\source\repos\ProofOfConceptAPP\ProofOfConceptAPP\bin\Debug\ProofOfConceptAPP.pdb
+C:\Users\Deepak\source\repos\ProofOfConceptAPP\ProofOfConceptAPP\obj\Debug\ProofOfConceptAPP.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\ProofOfConceptAPP\ProofOfConceptAPP\obj\Debug\ProofOfConceptAPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\ProofOfConceptAPP\ProofOfConceptAPP\obj\Debug\ProofOfConceptAPP.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\ProofOfConceptAPP\ProofOfConceptAPP\obj\Debug\ProofOfConceptAPP.exe
+C:\Users\Deepak\source\repos\ProofOfConceptAPP\ProofOfConceptAPP\obj\Debug\ProofOfConceptAPP.pdb

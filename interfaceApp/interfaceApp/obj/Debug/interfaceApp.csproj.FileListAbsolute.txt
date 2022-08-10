@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\interfaceApp\interfaceApp\bin\Debug\interfaceApp.exe.config
+C:\Users\Deepak\source\repos\interfaceApp\interfaceApp\bin\Debug\interfaceApp.exe
+C:\Users\Deepak\source\repos\interfaceApp\interfaceApp\bin\Debug\interfaceApp.pdb
+C:\Users\Deepak\source\repos\interfaceApp\interfaceApp\obj\Debug\interfaceApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\interfaceApp\interfaceApp\obj\Debug\interfaceApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\interfaceApp\interfaceApp\obj\Debug\interfaceApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\interfaceApp\interfaceApp\obj\Debug\interfaceApp.exe
+C:\Users\Deepak\source\repos\interfaceApp\interfaceApp\obj\Debug\interfaceApp.pdb

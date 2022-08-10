@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\ISPSlnApp\ISPSlnApp\bin\Debug\ISPSlnApp.exe.config
+C:\Users\Deepak\source\repos\ISPSlnApp\ISPSlnApp\bin\Debug\ISPSlnApp.exe
+C:\Users\Deepak\source\repos\ISPSlnApp\ISPSlnApp\bin\Debug\ISPSlnApp.pdb
+C:\Users\Deepak\source\repos\ISPSlnApp\ISPSlnApp\obj\Debug\ISPViolationApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\ISPSlnApp\ISPSlnApp\obj\Debug\ISPViolationApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\ISPSlnApp\ISPSlnApp\obj\Debug\ISPViolationApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\ISPSlnApp\ISPSlnApp\obj\Debug\ISPSlnApp.exe
+C:\Users\Deepak\source\repos\ISPSlnApp\ISPSlnApp\obj\Debug\ISPSlnApp.pdb

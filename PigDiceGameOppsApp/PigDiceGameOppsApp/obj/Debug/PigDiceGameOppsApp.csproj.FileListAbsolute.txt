@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\PigDiceGameOppsApp\PigDiceGameOppsApp\bin\Debug\PigDiceGameOppsApp.exe.config
+C:\Users\Deepak\source\repos\PigDiceGameOppsApp\PigDiceGameOppsApp\bin\Debug\PigDiceGameOppsApp.exe
+C:\Users\Deepak\source\repos\PigDiceGameOppsApp\PigDiceGameOppsApp\bin\Debug\PigDiceGameOppsApp.pdb
+C:\Users\Deepak\source\repos\PigDiceGameOppsApp\PigDiceGameOppsApp\obj\Debug\PigDiceGameOppsApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\PigDiceGameOppsApp\PigDiceGameOppsApp\obj\Debug\PigDiceGameOppsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\PigDiceGameOppsApp\PigDiceGameOppsApp\obj\Debug\PigDiceGameOppsApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\PigDiceGameOppsApp\PigDiceGameOppsApp\obj\Debug\PigDiceGameOppsApp.exe
+C:\Users\Deepak\source\repos\PigDiceGameOppsApp\PigDiceGameOppsApp\obj\Debug\PigDiceGameOppsApp.pdb

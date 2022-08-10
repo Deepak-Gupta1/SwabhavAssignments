@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\DIPWithDelegateApp\DIPWithDelegateApp\obj\Debug\DIPWithDelegateApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\DIPWithDelegateApp\DIPWithDelegateApp\obj\Debug\DIPWithDelegateApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\DIPWithDelegateApp\DIPWithDelegateApp\obj\Debug\DIPWithDelegateApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\DIPWithDelegateApp\DIPWithDelegateApp\bin\Debug\DIPWithDelegateApp.exe.config
+C:\Users\Deepak\source\repos\DIPWithDelegateApp\DIPWithDelegateApp\bin\Debug\DIPWithDelegateApp.exe
+C:\Users\Deepak\source\repos\DIPWithDelegateApp\DIPWithDelegateApp\bin\Debug\DIPWithDelegateApp.pdb
+C:\Users\Deepak\source\repos\DIPWithDelegateApp\DIPWithDelegateApp\obj\Debug\DIPWithDelegateApp.exe
+C:\Users\Deepak\source\repos\DIPWithDelegateApp\DIPWithDelegateApp\obj\Debug\DIPWithDelegateApp.pdb

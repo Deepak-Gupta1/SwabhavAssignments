@@ -1,0 +1,11 @@
+C:\Users\Deepak\source\repos\ConsoleWinForm\ConsoleWinForm\bin\Debug\ConsoleWinForm.exe.config
+C:\Users\Deepak\source\repos\ConsoleWinForm\ConsoleWinForm\bin\Debug\ConsoleWinForm.exe
+C:\Users\Deepak\source\repos\ConsoleWinForm\ConsoleWinForm\bin\Debug\ConsoleWinForm.pdb
+C:\Users\Deepak\source\repos\ConsoleWinForm\ConsoleWinForm\obj\Debug\ConsoleWinForm.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\ConsoleWinForm\ConsoleWinForm\obj\Debug\ConsoleWinForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\ConsoleWinForm\ConsoleWinForm\obj\Debug\ConsoleWinForm.WelcomeForm.resources
+C:\Users\Deepak\source\repos\ConsoleWinForm\ConsoleWinForm\obj\Debug\ConsoleWinForm.Properties.Resources.resources
+C:\Users\Deepak\source\repos\ConsoleWinForm\ConsoleWinForm\obj\Debug\ConsoleWinForm.csproj.GenerateResource.cache
+C:\Users\Deepak\source\repos\ConsoleWinForm\ConsoleWinForm\obj\Debug\ConsoleWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\ConsoleWinForm\ConsoleWinForm\obj\Debug\ConsoleWinForm.exe
+C:\Users\Deepak\source\repos\ConsoleWinForm\ConsoleWinForm\obj\Debug\ConsoleWinForm.pdb

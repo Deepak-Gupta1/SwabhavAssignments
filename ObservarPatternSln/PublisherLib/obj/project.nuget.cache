@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "axTuIViXPjx9Rb5dLGmPhFoK6B4hVmfZycxL1UuSg99C7JmWFIW23g8wJjhL1V4khs6+yFrJYIfwOkHGBz+yRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Deepak\\source\\repos\\ObservarPatternSln\\PublisherLib\\PublisherLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Deepak\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Deepak\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

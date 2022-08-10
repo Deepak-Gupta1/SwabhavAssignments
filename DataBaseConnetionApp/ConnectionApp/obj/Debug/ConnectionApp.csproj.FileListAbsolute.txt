@@ -1,0 +1,17 @@
+C:\Users\Deepak\source\repos\DataBaseConnetionApp\ConnectionApp\bin\Debug\ConnectionApp.exe.config
+C:\Users\Deepak\source\repos\DataBaseConnetionApp\ConnectionApp\bin\Debug\ConnectionApp.exe
+C:\Users\Deepak\source\repos\DataBaseConnetionApp\ConnectionApp\bin\Debug\ConnectionApp.pdb
+C:\Users\Deepak\source\repos\DataBaseConnetionApp\ConnectionApp\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Deepak\source\repos\DataBaseConnetionApp\ConnectionApp\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Deepak\source\repos\DataBaseConnetionApp\ConnectionApp\bin\Debug\System.Security.Permissions.dll
+C:\Users\Deepak\source\repos\DataBaseConnetionApp\ConnectionApp\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Deepak\source\repos\DataBaseConnetionApp\ConnectionApp\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Deepak\source\repos\DataBaseConnetionApp\ConnectionApp\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Deepak\source\repos\DataBaseConnetionApp\ConnectionApp\bin\Debug\System.Security.Permissions.xml
+C:\Users\Deepak\source\repos\DataBaseConnetionApp\ConnectionApp\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Deepak\source\repos\DataBaseConnetionApp\ConnectionApp\obj\Debug\ConnectionApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\DataBaseConnetionApp\ConnectionApp\obj\Debug\ConnectionApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\DataBaseConnetionApp\ConnectionApp\obj\Debug\ConnectionApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\DataBaseConnetionApp\ConnectionApp\obj\Debug\ConnectionApp.csproj.CopyComplete
+C:\Users\Deepak\source\repos\DataBaseConnetionApp\ConnectionApp\obj\Debug\ConnectionApp.exe
+C:\Users\Deepak\source\repos\DataBaseConnetionApp\ConnectionApp\obj\Debug\ConnectionApp.pdb

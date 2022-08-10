@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\SimpleDelegateWithLambdaApp\SimpleDelegateWithLambdaApp\obj\Debug\SimpleDelegateWithLambdaApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\SimpleDelegateWithLambdaApp\SimpleDelegateWithLambdaApp\obj\Debug\SimpleDelegateWithLambdaApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\SimpleDelegateWithLambdaApp\SimpleDelegateWithLambdaApp\obj\Debug\SimpleDelegateWithLambdaApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\SimpleDelegateWithLambdaApp\SimpleDelegateWithLambdaApp\bin\Debug\SimpleDelegateWithLambdaApp.exe.config
+C:\Users\Deepak\source\repos\SimpleDelegateWithLambdaApp\SimpleDelegateWithLambdaApp\bin\Debug\SimpleDelegateWithLambdaApp.exe
+C:\Users\Deepak\source\repos\SimpleDelegateWithLambdaApp\SimpleDelegateWithLambdaApp\bin\Debug\SimpleDelegateWithLambdaApp.pdb
+C:\Users\Deepak\source\repos\SimpleDelegateWithLambdaApp\SimpleDelegateWithLambdaApp\obj\Debug\SimpleDelegateWithLambdaApp.exe
+C:\Users\Deepak\source\repos\SimpleDelegateWithLambdaApp\SimpleDelegateWithLambdaApp\obj\Debug\SimpleDelegateWithLambdaApp.pdb

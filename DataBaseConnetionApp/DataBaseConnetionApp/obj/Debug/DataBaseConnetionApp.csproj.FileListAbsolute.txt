@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\DataBaseConnetionApp\DataBaseConnetionApp\bin\Debug\DataBaseConnetionApp.exe.config
+C:\Users\Deepak\source\repos\DataBaseConnetionApp\DataBaseConnetionApp\bin\Debug\DataBaseConnetionApp.exe
+C:\Users\Deepak\source\repos\DataBaseConnetionApp\DataBaseConnetionApp\bin\Debug\DataBaseConnetionApp.pdb
+C:\Users\Deepak\source\repos\DataBaseConnetionApp\DataBaseConnetionApp\obj\Debug\DataBaseConnetionApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\DataBaseConnetionApp\DataBaseConnetionApp\obj\Debug\DataBaseConnetionApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\DataBaseConnetionApp\DataBaseConnetionApp\obj\Debug\DataBaseConnetionApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\DataBaseConnetionApp\DataBaseConnetionApp\obj\Debug\DataBaseConnetionApp.exe
+C:\Users\Deepak\source\repos\DataBaseConnetionApp\DataBaseConnetionApp\obj\Debug\DataBaseConnetionApp.pdb

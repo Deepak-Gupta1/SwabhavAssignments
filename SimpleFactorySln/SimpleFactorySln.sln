@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMobileLayer", "AutoMobileLayer\AutoMobileLayer.csproj", "{24473136-1991-48CC-A6B7-A3EC4A1B8409}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMobileLayerLib", "AutoMobileLayerLib\AutoMobileLayerLib.csproj", "{ED22B9A2-B76E-4136-9EFB-986F4418F20F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24473136-1991-48CC-A6B7-A3EC4A1B8409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24473136-1991-48CC-A6B7-A3EC4A1B8409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24473136-1991-48CC-A6B7-A3EC4A1B8409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24473136-1991-48CC-A6B7-A3EC4A1B8409}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED22B9A2-B76E-4136-9EFB-986F4418F20F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED22B9A2-B76E-4136-9EFB-986F4418F20F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED22B9A2-B76E-4136-9EFB-986F4418F20F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED22B9A2-B76E-4136-9EFB-986F4418F20F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61B8FB52-DD25-4BDF-9FF9-CB07426121D2}
+	EndGlobalSection
+EndGlobal

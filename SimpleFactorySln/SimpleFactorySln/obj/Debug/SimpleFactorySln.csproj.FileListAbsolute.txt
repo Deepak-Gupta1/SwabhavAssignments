@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\SimpleFactorySln\SimpleFactorySln\bin\Debug\SimpleFactorySln.exe.config
+C:\Users\Deepak\source\repos\SimpleFactorySln\SimpleFactorySln\bin\Debug\SimpleFactorySln.exe
+C:\Users\Deepak\source\repos\SimpleFactorySln\SimpleFactorySln\bin\Debug\SimpleFactorySln.pdb
+C:\Users\Deepak\source\repos\SimpleFactorySln\SimpleFactorySln\obj\Debug\SimpleFactorySln.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\SimpleFactorySln\SimpleFactorySln\obj\Debug\SimpleFactorySln.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\SimpleFactorySln\SimpleFactorySln\obj\Debug\SimpleFactorySln.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\SimpleFactorySln\SimpleFactorySln\obj\Debug\SimpleFactorySln.exe
+C:\Users\Deepak\source\repos\SimpleFactorySln\SimpleFactorySln\obj\Debug\SimpleFactorySln.pdb

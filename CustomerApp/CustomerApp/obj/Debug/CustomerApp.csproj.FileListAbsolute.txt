@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\CustomerApp\CustomerApp\bin\Debug\CustomerApp.exe.config
+C:\Users\Deepak\source\repos\CustomerApp\CustomerApp\bin\Debug\CustomerApp.exe
+C:\Users\Deepak\source\repos\CustomerApp\CustomerApp\bin\Debug\CustomerApp.pdb
+C:\Users\Deepak\source\repos\CustomerApp\CustomerApp\obj\Debug\CustomerApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\CustomerApp\CustomerApp\obj\Debug\CustomerApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\CustomerApp\CustomerApp\obj\Debug\CustomerApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\CustomerApp\CustomerApp\obj\Debug\CustomerApp.exe
+C:\Users\Deepak\source\repos\CustomerApp\CustomerApp\obj\Debug\CustomerApp.pdb

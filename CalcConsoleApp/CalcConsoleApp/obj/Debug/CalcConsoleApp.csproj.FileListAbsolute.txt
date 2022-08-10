@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\CalcConsoleApp\CalcConsoleApp\bin\Debug\CalcConsoleApp.exe.config
+C:\Users\Deepak\source\repos\CalcConsoleApp\CalcConsoleApp\bin\Debug\CalcConsoleApp.exe
+C:\Users\Deepak\source\repos\CalcConsoleApp\CalcConsoleApp\bin\Debug\CalcConsoleApp.pdb
+C:\Users\Deepak\source\repos\CalcConsoleApp\CalcConsoleApp\obj\Debug\CalcConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\CalcConsoleApp\CalcConsoleApp\obj\Debug\CalcConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\CalcConsoleApp\CalcConsoleApp\obj\Debug\CalcConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\CalcConsoleApp\CalcConsoleApp\obj\Debug\CalcConsoleApp.exe
+C:\Users\Deepak\source\repos\CalcConsoleApp\CalcConsoleApp\obj\Debug\CalcConsoleApp.pdb

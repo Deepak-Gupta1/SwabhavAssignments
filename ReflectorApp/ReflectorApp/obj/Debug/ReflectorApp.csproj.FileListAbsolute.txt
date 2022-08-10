@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\ReflectorApp\ReflectorApp\bin\Debug\ReflectorApp.exe.config
+C:\Users\Deepak\source\repos\ReflectorApp\ReflectorApp\bin\Debug\ReflectorApp.exe
+C:\Users\Deepak\source\repos\ReflectorApp\ReflectorApp\bin\Debug\ReflectorApp.pdb
+C:\Users\Deepak\source\repos\ReflectorApp\ReflectorApp\obj\Debug\ReflectorApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\ReflectorApp\ReflectorApp\obj\Debug\ReflectorApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\ReflectorApp\ReflectorApp\obj\Debug\ReflectorApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\ReflectorApp\ReflectorApp\obj\Debug\ReflectorApp.exe
+C:\Users\Deepak\source\repos\ReflectorApp\ReflectorApp\obj\Debug\ReflectorApp.pdb

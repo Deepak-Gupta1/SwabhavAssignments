@@ -1,0 +1,11 @@
+C:\Users\Deepak\source\repos\SimpleFactorySln\AutoMobileLayer\bin\Debug\AutoMobileLayer.exe.config
+C:\Users\Deepak\source\repos\SimpleFactorySln\AutoMobileLayer\bin\Debug\AutoMobileLayer.exe
+C:\Users\Deepak\source\repos\SimpleFactorySln\AutoMobileLayer\bin\Debug\AutoMobileLayer.pdb
+C:\Users\Deepak\source\repos\SimpleFactorySln\AutoMobileLayer\bin\Debug\AutoMobileLayerLib.dll
+C:\Users\Deepak\source\repos\SimpleFactorySln\AutoMobileLayer\bin\Debug\AutoMobileLayerLib.pdb
+C:\Users\Deepak\source\repos\SimpleFactorySln\AutoMobileLayer\obj\Debug\AutoMobileLayer.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\SimpleFactorySln\AutoMobileLayer\obj\Debug\AutoMobileLayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\SimpleFactorySln\AutoMobileLayer\obj\Debug\AutoMobileLayer.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\SimpleFactorySln\AutoMobileLayer\obj\Debug\AutoMobileLayer.csproj.CopyComplete
+C:\Users\Deepak\source\repos\SimpleFactorySln\AutoMobileLayer\obj\Debug\AutoMobileLayer.exe
+C:\Users\Deepak\source\repos\SimpleFactorySln\AutoMobileLayer\obj\Debug\AutoMobileLayer.pdb

@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\SPRSln\SRPSolutionApp\obj\Debug\SRPSolutionApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\SPRSln\SRPSolutionApp\obj\Debug\SRPSolutionApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\SPRSln\SRPSolutionApp\obj\Debug\SRPSolutionApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\SPRSln\SRPSolutionApp\bin\Debug\SRPSolutionApp.exe.config
+C:\Users\Deepak\source\repos\SPRSln\SRPSolutionApp\bin\Debug\SRPSolutionApp.exe
+C:\Users\Deepak\source\repos\SPRSln\SRPSolutionApp\bin\Debug\SRPSolutionApp.pdb
+C:\Users\Deepak\source\repos\SPRSln\SRPSolutionApp\obj\Debug\SRPSolutionApp.exe
+C:\Users\Deepak\source\repos\SPRSln\SRPSolutionApp\obj\Debug\SRPSolutionApp.pdb

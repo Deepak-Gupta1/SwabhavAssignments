@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\ExceptionPropagationApp\ExceptionPropagationApp\bin\Debug\ExceptionPropagationApp.exe.config
+C:\Users\Deepak\source\repos\ExceptionPropagationApp\ExceptionPropagationApp\bin\Debug\ExceptionPropagationApp.exe
+C:\Users\Deepak\source\repos\ExceptionPropagationApp\ExceptionPropagationApp\bin\Debug\ExceptionPropagationApp.pdb
+C:\Users\Deepak\source\repos\ExceptionPropagationApp\ExceptionPropagationApp\obj\Debug\ExceptionPropagationApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\ExceptionPropagationApp\ExceptionPropagationApp\obj\Debug\ExceptionPropagationApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\ExceptionPropagationApp\ExceptionPropagationApp\obj\Debug\ExceptionPropagationApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\ExceptionPropagationApp\ExceptionPropagationApp\obj\Debug\ExceptionPropagationApp.exe
+C:\Users\Deepak\source\repos\ExceptionPropagationApp\ExceptionPropagationApp\obj\Debug\ExceptionPropagationApp.pdb

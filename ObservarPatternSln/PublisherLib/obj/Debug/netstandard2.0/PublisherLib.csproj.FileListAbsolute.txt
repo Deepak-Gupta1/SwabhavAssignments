@@ -1,0 +1,10 @@
+C:\Users\Deepak\source\repos\ObservarPatternSln\PublisherLib\bin\Debug\netstandard2.0\PublisherLib.deps.json
+C:\Users\Deepak\source\repos\ObservarPatternSln\PublisherLib\bin\Debug\netstandard2.0\PublisherLib.dll
+C:\Users\Deepak\source\repos\ObservarPatternSln\PublisherLib\bin\Debug\netstandard2.0\PublisherLib.pdb
+C:\Users\Deepak\source\repos\ObservarPatternSln\PublisherLib\obj\Debug\netstandard2.0\PublisherLib.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\ObservarPatternSln\PublisherLib\obj\Debug\netstandard2.0\PublisherLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deepak\source\repos\ObservarPatternSln\PublisherLib\obj\Debug\netstandard2.0\PublisherLib.AssemblyInfoInputs.cache
+C:\Users\Deepak\source\repos\ObservarPatternSln\PublisherLib\obj\Debug\netstandard2.0\PublisherLib.AssemblyInfo.cs
+C:\Users\Deepak\source\repos\ObservarPatternSln\PublisherLib\obj\Debug\netstandard2.0\PublisherLib.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\ObservarPatternSln\PublisherLib\obj\Debug\netstandard2.0\PublisherLib.dll
+C:\Users\Deepak\source\repos\ObservarPatternSln\PublisherLib\obj\Debug\netstandard2.0\PublisherLib.pdb

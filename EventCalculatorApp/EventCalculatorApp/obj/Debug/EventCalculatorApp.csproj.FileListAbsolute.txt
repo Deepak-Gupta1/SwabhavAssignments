@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\EventCalculatorApp\EventCalculatorApp\bin\Debug\EventCalculatorApp.exe.config
+C:\Users\Deepak\source\repos\EventCalculatorApp\EventCalculatorApp\bin\Debug\EventCalculatorApp.exe
+C:\Users\Deepak\source\repos\EventCalculatorApp\EventCalculatorApp\bin\Debug\EventCalculatorApp.pdb
+C:\Users\Deepak\source\repos\EventCalculatorApp\EventCalculatorApp\obj\Debug\EventCalculatorApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\EventCalculatorApp\EventCalculatorApp\obj\Debug\EventCalculatorApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\EventCalculatorApp\EventCalculatorApp\obj\Debug\EventCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\EventCalculatorApp\EventCalculatorApp\obj\Debug\EventCalculatorApp.exe
+C:\Users\Deepak\source\repos\EventCalculatorApp\EventCalculatorApp\obj\Debug\EventCalculatorApp.pdb

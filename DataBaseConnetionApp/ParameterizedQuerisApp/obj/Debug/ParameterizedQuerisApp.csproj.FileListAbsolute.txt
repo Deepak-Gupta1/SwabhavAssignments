@@ -1,0 +1,8 @@
+C:\Users\Deepak\source\repos\DataBaseConnetionApp\ParameterizedQuerisApp\bin\Debug\ParameterizedQuerisApp.exe.config
+C:\Users\Deepak\source\repos\DataBaseConnetionApp\ParameterizedQuerisApp\bin\Debug\ParameterizedQuerisApp.exe
+C:\Users\Deepak\source\repos\DataBaseConnetionApp\ParameterizedQuerisApp\bin\Debug\ParameterizedQuerisApp.pdb
+C:\Users\Deepak\source\repos\DataBaseConnetionApp\ParameterizedQuerisApp\obj\Debug\ParameterizedQuerisApp.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\DataBaseConnetionApp\ParameterizedQuerisApp\obj\Debug\ParameterizedQuerisApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\DataBaseConnetionApp\ParameterizedQuerisApp\obj\Debug\ParameterizedQuerisApp.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\DataBaseConnetionApp\ParameterizedQuerisApp\obj\Debug\ParameterizedQuerisApp.exe
+C:\Users\Deepak\source\repos\DataBaseConnetionApp\ParameterizedQuerisApp\obj\Debug\ParameterizedQuerisApp.pdb
